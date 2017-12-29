@@ -1,0 +1,24 @@
+body {
+    height: 5000px;
+    font-family: "RobotoLight";
+    letter-spacing: 3px;
+    background-color: aqua;
+    padding-top: 100px;
+}
+.conteudo{
+    padding-top: 200px;
+}
+.cor-branco {
+    color: white !important;
+}
+.cor-branco a:hover {
+    color: #ff009d !important ;
+}
+@font-face {
+    font-family:"RobotoLight";
+    src:url("../fonts/RobotoCondensed-Light.ttf") format("truetype")
+}
+.menu-preto{
+    height: 36px;
+    font-size: 14px;
+}
