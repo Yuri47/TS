@@ -2,8 +2,8 @@ body {
     height: 5000px;
     font-family: "RobotoLight";
     letter-spacing: 3px;
-    background-color: aqua;
-    padding-top: 100px;
+    /* background-color: aqua; */
+    padding-top: 0px;
 }
 .conteudo{
     padding-top: 200px;
@@ -14,11 +14,31 @@ body {
 .cor-branco a:hover {
     color: #ff009d !important ;
 }
+.cor-pink{
+    color:#ff009d !important;
+}
 @font-face {
     font-family:"RobotoLight";
     src:url("../fonts/RobotoCondensed-Light.ttf") format("truetype")
 }
 .menu-preto{
-    height: 36px;
-    font-size: 14px;
+     
+    font-size: 12px;
+}
+.menu-branco{
+   /*  padding-top: 20px; */
+    font-size: 12px;
+}
+.logo {
+    height: 110px;
+}
+.pesquisa{
+    border: 2px solid #ff009d;
+    border-radius: 6px;
+}
+.botao-pesquisa{
+    border-radius: 0px;
+}
+.divisao {
+    border-right: 2px solid #dedede;
 }
