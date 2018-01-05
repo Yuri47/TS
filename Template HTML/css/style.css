@@ -75,20 +75,47 @@ body {
 .inicial-produto-preco{
     font-size: 20px;
     font-weight: 900;
+    color: #0a0a0a;
 }
+ 
 .botao-comprar {
-    position:absolute;
-    z-index:1;
-    top:50%;
-    left:50%;
-     
-     
-    margin:-15px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+   width: 150px;
+    margin-bottom: 10px;
     
 }
 .borda-produto{
-    border: 2px solid #ff009d;
+    /* border: 2px solid #fff; */
 }
+.borda-produto:hover{
+    /* border: 2px solid #ff009d; */
+    
+}
+.alerta{
+    background-color: #ff009d;
+    color: #fff;
+    font-weight: 900;
+}
+.btn-primary {
+    letter-spacing: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
