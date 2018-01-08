@@ -4,7 +4,7 @@ preto: #0a0a0a
 pink: #ff009d
 */
 body {
-    height: 5000px;
+    /* height: 5000px; */
     font-family: "RobotoLight";
     letter-spacing: 3px;
     /* background-color: aqua; */
@@ -98,17 +98,48 @@ body {
 .btn-primary {
     letter-spacing: 3px;
 }
+footer {
+    background-color: #0a0a0a;
+    color: white;
+    
+}
+footer a {
+    text-decoration: none;
+    color: white;
+}
+footer li {
+    font-size: 12px;
+}
 
+@media (min-width: 992px){
+ 
+.nome-menu {
+    display: none;
+}
 
+}
+.feito {
+    background-color: #ff009d;
+    font-size: 12px;
+}
+.espaco {
+    padding-top: 108px;
+}
+.espaco-mobile {
+    padding-top: 118px;
+}
 
-
-
-
-
-
-
-
-
+.preco-antigo {
+       font-size: 16px;
+    font-weight: 700;
+    text-decoration-line: line-through;
+    color: #6c6c6c;
+}
+.preco {
+    font-size: 24px;
+    font-weight: 900;
+    color: #0a0a0a;
+}
 
 
 
