@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        .imagem{
+            width: auto;
+            height: 200px;
+        }
+    
+        .thumb {
+            width: 50px;
+            height: auto;
+        }
+        .mini {
+            padding-top: 200px;
+        }
+    
+    </style>
+</head>
+<body>
+    
+    
+    
+    <img src="../images/logo.png" alt="" class="foto imagem">
+    <br>
+    <div class="mini">
+    <img src="../images/mercadopago-logo%20-%20Copia.png" alt="" class="foto thumb">
+    <img src="../images/15137136399090_zoom.jpg" alt="" class="foto thumb">
+    <img src="../images/pac.jpg" alt="" class="foto thumb">
+    <span class="nome-foto">foto</span>
+    <a href="#testes" class="foto">esse é um link</a>
+    
+    </div>
+    
+    
+    
+    
+    
+    <script src="../js/jquery-3.2.1.slim.min.js"></script>
+    <script>
+    $(".foto").click(function(){
+    var href = this.src;
+        console.log(href);
+        
+       
+        $('.imagem').attr("src", href);
+        
+});
+        </script>
+</body>
+</html>
