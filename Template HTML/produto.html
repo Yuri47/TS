@@ -151,7 +151,11 @@
    
    <div class="row">
   <div class="col-sm-6">
-       <img src="images/15137136399090_zoom.jpg" class="img-fluid mx-auto " alt="">
+       
+       <span class='zoom' id='ex1'>
+		<img src="images/15137136399090_zoom.jpg" class="img-fluid mx-auto " alt="">
+		
+	</span>
        
        
        <img src="images/15137136399090_zoom.jpg" class="img-fluid mx-auto " alt="" width="80">
@@ -705,10 +709,20 @@
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.js"></script>
     
+    <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
+	<script src='js/zoom/jquery.zoom.js'></script>
+    
     <script src="js/app.js"></script>
     
     
-    
+    	<script>
+		$(document).ready(function(){
+			$('#ex1').zoom();
+			$('#ex2').zoom({ on:'grab' });
+			$('#ex3').zoom({ on:'click' });			 
+			$('#ex4').zoom({ on:'toggle' });
+		});
+	</script>
     
     
     
