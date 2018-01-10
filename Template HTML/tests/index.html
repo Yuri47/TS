@@ -6,7 +6,7 @@
     <style>
         .imagem{
             width: auto;
-            height: 200px;
+            height: 400px;
         }
     
         .thumb {
@@ -16,19 +16,51 @@
         .mini {
             padding-top: 200px;
         }
+        
+        		.zoom {
+			display:inline-block;
+			position: relative;
+		}
+		
+		/* magnifying glass icon */
+		.zoom:after {
+			content:'';
+			display:block; 
+			width:33px; 
+			height:33px; 
+			position:absolute; 
+			top:0;
+			right:0;
+			 
+		}
+
+		.zoom img {
+			display: block;
+		}
+
+		.zoom img::selection { background-color: transparent; }
+
+
+
     
     </style>
 </head>
 <body>
     
     
-    
-    <img src="../images/logo.png" alt="" class="foto imagem">
+    <span class='zoom' id='ex1'>
+    <img src="../images/logo.png" alt="" class="foto imagem image"  id="img">
+    </span>
     <br>
     <div class="mini">
     <img src="../images/mercadopago-logo%20-%20Copia.png" alt="" class="foto thumb">
     <img src="../images/15137136399090_zoom.jpg" alt="" class="foto thumb">
     <img src="../images/pac.jpg" alt="" class="foto thumb">
+    <img src="../images/15007320405705_zoom.jpg" alt="" class="foto thumb">
+    <img src="../images/15048720692315_zoom.jpg" alt="" class="foto thumb">
+    <img src="../images/15095521182963_zoom.jpg" alt="" class="foto thumb">
+    <img src="../images/15124932188794_zoom.jpg" alt="" class="foto thumb">
+    <img src="../images/15137136399090_zoom.jpg" alt="" class="foto thumb">
     <span class="nome-foto">foto</span>
     <a href="#testes" class="foto">esse é um link</a>
     
@@ -39,15 +71,20 @@
     
     
     <script src="../js/jquery-3.2.1.slim.min.js"></script>
+    
+    
+    
+        <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
+	<script src='../js/zoom/jquery.zoom.js'></script>
+   <script src="../js/zoom/galleryzoom.js"></script>
+    
+     
+     
+    
     <script>
-    $(".foto").click(function(){
-    var href = this.src;
-        console.log(href);
-        
-       
-        $('.imagem').attr("src", href);
-        
-});
+    
+        gallery("#ex1", ".foto");
+      
         </script>
 </body>
 </html>
