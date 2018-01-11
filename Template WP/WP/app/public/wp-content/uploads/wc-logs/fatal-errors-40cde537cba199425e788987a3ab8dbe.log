@@ -1,0 +1,103 @@
+2018-01-11T02:18:55+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in /app/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php:1836
+Stack trace:
+#0 /app/public/wp-content/themes/sexcommerce/header.php(125): WC_Cart->get_product_subtotal(NULL, NULL)
+#1 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#2 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#3 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /app/public/wp-content/themes/sexcommerce/archive-product.php(23): get_header('shop')
+#5 /app/public/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include('/app/public/wp-...')
+#6 /app/public/wp-content/themes/sexcommerce/taxonomy-product_cat.php(22): wc_get_template('archive-product...')
+#7 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#8 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#9 /app/public/index.php(17): require('/app/p
+
+2018-01-11T02:19:07+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in /app/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php:1836
+Stack trace:
+#0 /app/public/wp-content/themes/sexcommerce/header.php(125): WC_Cart->get_product_subtotal(NULL, NULL)
+#1 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#2 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#3 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /app/public/wp-content/themes/sexcommerce/archive-product.php(23): get_header('shop')
+#5 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#6 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#7 /app/public/index.php(17): require('/app/public/wp-...')
+#8 {main}
+  thrown
+
+2018-01-11T02:20:13+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in /app/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php:1836
+Stack trace:
+#0 /app/public/wp-content/themes/sexcommerce/header.php(128): WC_Cart->get_product_subtotal(NULL, NULL)
+#1 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#2 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#3 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /app/public/wp-content/themes/sexcommerce/archive-product.php(23): get_header('shop')
+#5 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#6 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#7 /app/public/index.php(17): require('/app/public/wp-...')
+#8 {main}
+  thrown
+
+2018-01-11T02:20:17+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in /app/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php:1836
+Stack trace:
+#0 /app/public/wp-content/themes/sexcommerce/header.php(128): WC_Cart->get_product_subtotal(NULL, NULL)
+#1 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#2 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#3 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /app/public/wp-content/themes/sexcommerce/archive-product.php(23): get_header('shop')
+#5 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#6 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#7 /app/public/index.php(17): require('/app/public/wp-...')
+#8 {main}
+  thrown
+
+2018-01-11T02:20:27+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in /app/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php:1836
+Stack trace:
+#0 /app/public/wp-content/themes/sexcommerce/header.php(128): WC_Cart->get_product_subtotal(NULL, NULL)
+#1 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#2 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#3 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /app/public/wp-content/themes/sexcommerce/archive-product.php(23): get_header('shop')
+#5 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#6 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#7 /app/public/index.php(17): require('/app/public/wp-...')
+#8 {main}
+  thrown
+
+2018-01-11T02:22:04+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Cart::get_product_subtotal(), 0 passed in /app/public/wp-content/themes/sexcommerce/header.php on line 128 and exactly 2 expected in /app/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php:1835
+Stack trace:
+#0 /app/public/wp-content/themes/sexcommerce/header.php(128): WC_Cart->get_product_subtotal()
+#1 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#2 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#3 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /app/public/wp-content/themes/sexcommerce/archive-product.php(23): get_header('shop')
+#5 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#6 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#7 /app/public/index.php(17): require('/app/public/wp-...')
+#8 {main}
+  thrown
+
+2018-01-11T02:47:55+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_url() on null in /app/public/wp-content/themes/sexcommerce/header.php:125
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/sexcommerce/page.php(13): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown
+
+2018-01-11T02:48:25+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function woocommerce_header_add_to_cart_fragment(), 0 passed in /app/public/wp-content/themes/sexcommerce/header.php on line 125 and exactly 1 expected in /app/public/wp-content/themes/sexcommerce/functions.php:331
+Stack trace:
+#0 /app/public/wp-content/themes/sexcommerce/header.php(125): woocommerce_header_add_to_cart_fragment()
+#1 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#2 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#3 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /app/public/wp-content/themes/sexcommerce/page.php(13): get_header()
+#5 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#6 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#7 /app/public/index.php(17): require('/app/public/wp-...')
+#8 {main}
+  thrown
+

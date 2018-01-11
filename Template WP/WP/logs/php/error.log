@@ -1,0 +1,131 @@
+[27-Dec-2017 22:48:46 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[27-Dec-2017 22:48:48 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[27-Dec-2017 22:48:52 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[27-Dec-2017 22:48:52 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[27-Dec-2017 22:48:54 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[27-Dec-2017 22:48:54 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[28-Dec-2017 03:21:38 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[28-Dec-2017 03:23:01 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[28-Dec-2017 03:23:01 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[28-Dec-2017 03:23:02 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[28-Dec-2017 03:23:02 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[28-Dec-2017 03:25:28 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[28-Dec-2017 03:25:28 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[28-Dec-2017 03:25:29 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[28-Dec-2017 03:25:29 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[10-Jan-2018 23:04:06 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[10-Jan-2018 23:04:11 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[10-Jan-2018 23:18:06 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[10-Jan-2018 23:18:14 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[10-Jan-2018 23:18:24 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[10-Jan-2018 23:18:25 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[10-Jan-2018 23:18:29 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[10-Jan-2018 23:18:30 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[10-Jan-2018 23:19:48 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[10-Jan-2018 23:19:48 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[10-Jan-2018 23:19:49 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[10-Jan-2018 23:19:50 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[11-Jan-2018 02:18:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_price() on null in /app/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php:1836
+Stack trace:
+#0 /app/public/wp-content/themes/sexcommerce/header.php(125): WC_Cart->get_product_subtotal(NULL, NULL)
+#1 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#2 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#3 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /app/public/wp-content/themes/sexcommerce/archive-product.php(23): get_header('shop')
+#5 /app/public/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include('/app/public/wp-...')
+#6 /app/public/wp-content/themes/sexcommerce/taxonomy-product_cat.php(22): wc_get_template('archive-product...')
+#7 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#8 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#9 /app/public/index.php(17): require('/app/p in /app/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php on line 1836
+[11-Jan-2018 02:19:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_price() on null in /app/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php:1836
+Stack trace:
+#0 /app/public/wp-content/themes/sexcommerce/header.php(125): WC_Cart->get_product_subtotal(NULL, NULL)
+#1 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#2 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#3 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /app/public/wp-content/themes/sexcommerce/archive-product.php(23): get_header('shop')
+#5 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#6 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#7 /app/public/index.php(17): require('/app/public/wp-...')
+#8 {main}
+  thrown in /app/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php on line 1836
+[11-Jan-2018 02:20:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_price() on null in /app/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php:1836
+Stack trace:
+#0 /app/public/wp-content/themes/sexcommerce/header.php(128): WC_Cart->get_product_subtotal(NULL, NULL)
+#1 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#2 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#3 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /app/public/wp-content/themes/sexcommerce/archive-product.php(23): get_header('shop')
+#5 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#6 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#7 /app/public/index.php(17): require('/app/public/wp-...')
+#8 {main}
+  thrown in /app/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php on line 1836
+[11-Jan-2018 02:20:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_price() on null in /app/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php:1836
+Stack trace:
+#0 /app/public/wp-content/themes/sexcommerce/header.php(128): WC_Cart->get_product_subtotal(NULL, NULL)
+#1 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#2 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#3 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /app/public/wp-content/themes/sexcommerce/archive-product.php(23): get_header('shop')
+#5 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#6 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#7 /app/public/index.php(17): require('/app/public/wp-...')
+#8 {main}
+  thrown in /app/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php on line 1836
+[11-Jan-2018 02:20:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_price() on null in /app/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php:1836
+Stack trace:
+#0 /app/public/wp-content/themes/sexcommerce/header.php(128): WC_Cart->get_product_subtotal(NULL, NULL)
+#1 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#2 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#3 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /app/public/wp-content/themes/sexcommerce/archive-product.php(23): get_header('shop')
+#5 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#6 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#7 /app/public/index.php(17): require('/app/public/wp-...')
+#8 {main}
+  thrown in /app/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php on line 1836
+[11-Jan-2018 02:22:04 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function WC_Cart::get_product_subtotal(), 0 passed in /app/public/wp-content/themes/sexcommerce/header.php on line 128 and exactly 2 expected in /app/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php:1835
+Stack trace:
+#0 /app/public/wp-content/themes/sexcommerce/header.php(128): WC_Cart->get_product_subtotal()
+#1 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#2 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#3 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /app/public/wp-content/themes/sexcommerce/archive-product.php(23): get_header('shop')
+#5 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#6 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#7 /app/public/index.php(17): require('/app/public/wp-...')
+#8 {main}
+  thrown in /app/public/wp-content/plugins/woocommerce/includes/class-wc-cart.php on line 1835
+[11-Jan-2018 02:47:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cart_url() on null in /app/public/wp-content/themes/sexcommerce/header.php:125
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/sexcommerce/page.php(13): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/sexcommerce/header.php on line 125
+[11-Jan-2018 02:48:25 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function woocommerce_header_add_to_cart_fragment(), 0 passed in /app/public/wp-content/themes/sexcommerce/header.php on line 125 and exactly 1 expected in /app/public/wp-content/themes/sexcommerce/functions.php:331
+Stack trace:
+#0 /app/public/wp-content/themes/sexcommerce/header.php(125): woocommerce_header_add_to_cart_fragment()
+#1 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#2 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#3 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /app/public/wp-content/themes/sexcommerce/page.php(13): get_header()
+#5 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#6 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#7 /app/public/index.php(17): require('/app/public/wp-...')
+#8 {main}
+  thrown in /app/public/wp-content/themes/sexcommerce/functions.php on line 331
+[11-Jan-2018 02:48:48 UTC] PHP Warning:  Illegal string offset 'a.cart-customlocation' in /app/public/wp-content/themes/sexcommerce/functions.php on line 339
+[11-Jan-2018 02:50:56 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[11-Jan-2018 02:50:56 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[11-Jan-2018 02:50:57 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[11-Jan-2018 02:50:57 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[11-Jan-2018 02:54:40 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[11-Jan-2018 02:54:41 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[11-Jan-2018 02:54:42 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[11-Jan-2018 02:54:42 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
