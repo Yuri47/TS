@@ -29,4 +29,6 @@ INSERT INTO `wp_term_taxonomy` VALUES
 (25,25,"product_cat","",0,1),
 (26,26,"product_tag","",0,1),
 (27,27,"product_tag","",0,1),
-(28,28,"product_tag","",0,1);
+(28,28,"product_tag","",0,1),
+(29,29,"nav_menu","",0,4),
+(30,30,"nav_menu","",0,4);

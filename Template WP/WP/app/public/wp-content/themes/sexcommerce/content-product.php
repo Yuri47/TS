@@ -28,7 +28,16 @@ if ( empty( $product ) || ! $product->is_visible() ) {
 }
 ?>
 <li <?php post_class(); ?>>
+
+ 
+
+
 	<?php
+    
+    echo get_the_title();
+    
+    
+    
 	/**
 	 * woocommerce_before_shop_loop_item hook.
 	 *

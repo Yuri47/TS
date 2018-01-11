@@ -29,4 +29,6 @@ INSERT INTO `wp_terms` VALUES
 (25,"Sado","sado",0),
 (26,"carro","carro",0),
 (27,"leminho","leminho",0),
-(28,"viado","viado",0);
+(28,"viado","viado",0),
+(29,"Minha Conta","minha-conta",0),
+(30,"Políticas","politicas",0);
