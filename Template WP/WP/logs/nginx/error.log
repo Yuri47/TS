@@ -1,0 +1,1 @@
+2018/01/15 16:30:25 [error] 21#0: *1615 directory index of "/app/public/wp-content/themes/storefront/assets/js/" is forbidden, client: 127.0.0.1, server: site_domain, request: "GET /wp-content/themes/storefront/assets/js/ HTTP/1.0", host: "tentacaosexy.wp"

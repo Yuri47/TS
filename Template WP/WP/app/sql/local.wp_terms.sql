@@ -31,4 +31,5 @@ INSERT INTO `wp_terms` VALUES
 (27,"leminho","leminho",0),
 (28,"viado","viado",0),
 (29,"Minha Conta","minha-conta",0),
-(30,"Políticas","politicas",0);
+(30,"Políticas","politicas",0),
+(31,"segundo menu","segundo-menu",0);

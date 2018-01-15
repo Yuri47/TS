@@ -1,0 +1,203 @@
+
+/* 
+preto: #0a0a0a
+pink: #ff009d
+*/
+body {
+    /* height: 5000px; */
+    font-family: "RobotoLight";
+    letter-spacing: 3px;
+    /* background-color: aqua; */
+    padding-top: 0px;
+}
+.conteudo{
+    padding-top:20px;
+}
+.cor-branco {
+    color: white !important;
+}
+.cor-branco a:hover {
+    color: #ff009d !important ;
+}
+.cor-pink{
+    color:#ff009d !important;
+}
+@font-face {
+    font-family:"RobotoLight";
+    src:url("../fonts/RobotoCondensed-Light.ttf") format("truetype")
+}
+.menu-preto{
+     
+    font-size: 12px;
+}
+.menu-branco{
+   /*  padding-top: 20px; */
+    font-size: 12px;
+}
+.menu-rosa {
+    font-size: 12px;
+    font-weight: 900;
+}
+.menu-rosa a:hover{
+    color: #000 !important;
+}
+.logo {
+    height: 110px;
+}
+.pesquisa{
+    border: 2px solid #ff009d;
+    border-radius: 6px;
+}
+.botao-pesquisa{
+    border-radius: 0px;
+}
+.divisao {
+    border-right: 2px solid #dedede;
+}
+.inicial-produto-imagem{
+    width: 260px;
+    height: auto;
+}
+.produto a{
+    text-decoration: none;
+    color: #0a0a0a;
+}
+.produto a:hover{
+    text-decoration: none;
+    color: #ff009d;
+}
+.inicial-produto-preco-antigo{
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration-line: line-through;
+    color: #6c6c6c;
+}
+.inicial-produto-preco{
+    font-size: 20px;
+    font-weight: 900;
+    color: #0a0a0a;
+}
+ 
+.botao-comprar {
+   width: 150px;
+    margin-bottom: 10px;
+    
+}
+.borda-produto{
+    /* border: 2px solid #fff; */
+}
+.borda-produto:hover{
+    /* border: 2px solid #ff009d; */
+    
+}
+.alerta{
+    background-color: #ff009d;
+    color: #fff;
+    font-weight: 900;
+}
+.btn-primary {
+    letter-spacing: 3px;
+}
+footer {
+    background-color: #0a0a0a;
+    color: white;
+    
+}
+footer a {
+    text-decoration: none;
+    color: white;
+}
+footer li {
+    font-size: 12px;
+}
+
+@media (min-width: 992px){
+ 
+.nome-menu {
+    display: none;
+}
+
+}
+.feito {
+    background-color: #ff009d;
+    font-size: 12px;
+}
+.espaco {
+    padding-top: 108px;
+}
+.espaco-mobile {
+    padding-top: 118px;
+}
+
+.preco-antigo {
+       font-size: 16px;
+    font-weight: 700;
+    text-decoration-line: line-through;
+    color: #6c6c6c;
+}
+.preco {
+    font-size: 24px;
+    font-weight: 900;
+    color: #0a0a0a;
+}
+
+/* these styles are for the demo, but are not required for the plugin */
+		.zoom {
+			display:inline-block;
+			position: relative;
+		}
+		
+		/* magnifying glass icon */
+		.zoom:after {
+			content:'';
+			display:block; 
+			width:33px; 
+			height:33px; 
+			position:absolute; 
+			top:0;
+			right:0;
+			 
+		}
+
+		.zoom img {
+			display: block;
+		}
+
+		.zoom img::selection { background-color: transparent; }
+
+
+body {
+    text-transform: uppercase;
+}
+
+
+
+.top-menu-preto > li > a{
+     color: white !important;
+    display: block;
+padding: .5rem 1rem;
+    font-size: 12px !important;
+    text-transform: uppercase;
+}
+
+.top-menu-preto > li > a:hover {
+    color: #ff009d !important ;
+    text-decoration: none;
+}
+.top-menu-preto > li {
+   
+}
+
+
+.products > li > a > img {
+    width: 20px !important;
+}
+
+
+
+
+
+.temp1{
+    background-color: aqua;
+    border: 2px solid #ff009d;
+}

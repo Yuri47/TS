@@ -101,3 +101,95 @@ Stack trace:
 #8 {main}
   thrown
 
+2018-01-15T15:12:06+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_child_directory() in /app/public/wp-content/themes/StoreFront-Child/functions.php:3
+Stack trace:
+#0 /app/public/wp-settings.php(424): include()
+#1 /app/public/wp-config.php(86): require_once('/app/public/wp-...')
+#2 /app/public/wp-load.php(37): require_once('/app/public/wp-...')
+#3 /app/public/wp-blog-header.php(13): require_once('/app/public/wp-...')
+#4 /app/public/index.php(17): require('/app/public/wp-...')
+#5 {main}
+  thrown
+
+2018-01-15T15:12:21+00:00 CRITICAL Uncaught Error: Call to undefined function get_template_uri() in /app/public/wp-content/themes/StoreFront-Child/functions.php:3
+Stack trace:
+#0 /app/public/wp-settings.php(424): include()
+#1 /app/public/wp-config.php(86): require_once('/app/public/wp-...')
+#2 /app/public/wp-load.php(37): require_once('/app/public/wp-...')
+#3 /app/public/wp-blog-header.php(13): require_once('/app/public/wp-...')
+#4 /app/public/index.php(17): require('/app/public/wp-...')
+#5 {main}
+  thrown
+
+2018-01-15T17:11:27+00:00 CRITICAL Uncaught Error: Class 'Odin_Bootstrap_Nav_Walker' not found in /app/public/wp-content/themes/StoreFront-Child/inc/yd_template_functions.php:28
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): yd_header_function('')
+#1 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /app/public/wp-content/themes/StoreFront-Child/header.php(51): do_action('yd_header')
+#4 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#5 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#6 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#7 /app/public/wp-content/themes/storefront/404.php(8): get_header()
+#8 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#9 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#10 /app/public/index.php(17): require('/app/public/wp-...')
+#11 {main}
+  
+
+2018-01-15T17:11:27+00:00 CRITICAL Uncaught Error: Class 'Odin_Bootstrap_Nav_Walker' not found in /app/public/wp-content/themes/StoreFront-Child/inc/yd_template_functions.php:28
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): yd_header_function('')
+#1 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /app/public/wp-content/themes/StoreFront-Child/header.php(51): do_action('yd_header')
+#4 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#5 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#6 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#7 /app/public/wp-content/plugins/woocommerce/templates/archive-product.php(23): get_header('shop')
+#8 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#9 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#10 /app/public/index.php(17): require('/ap
+
+2018-01-15T17:11:29+00:00 CRITICAL Uncaught Error: Class 'Odin_Bootstrap_Nav_Walker' not found in /app/public/wp-content/themes/StoreFront-Child/inc/yd_template_functions.php:28
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): yd_header_function('')
+#1 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /app/public/wp-content/themes/StoreFront-Child/header.php(51): do_action('yd_header')
+#4 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#5 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#6 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#7 /app/public/wp-content/plugins/woocommerce/templates/archive-product.php(23): get_header('shop')
+#8 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#9 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#10 /app/public/index.php(17): require('/ap
+
+2018-01-15T17:11:45+00:00 CRITICAL Uncaught Error: Class 'Odin_Bootstrap_Nav_Walker' not found in /app/public/wp-content/themes/StoreFront-Child/inc/yd_template_functions.php:28
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): yd_header_function('')
+#1 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /app/public/wp-content/themes/StoreFront-Child/header.php(51): do_action('yd_header')
+#4 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#5 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#6 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#7 /app/public/wp-content/plugins/woocommerce/templates/archive-product.php(23): get_header('shop')
+#8 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#9 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#10 /app/public/index.php(17): require('/ap
+
+2018-01-15T17:11:50+00:00 CRITICAL Uncaught Error: Class 'Odin_Bootstrap_Nav_Walker' not found in /app/public/wp-content/themes/StoreFront-Child/inc/yd_template_functions.php:28
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): yd_header_function('')
+#1 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /app/public/wp-content/themes/StoreFront-Child/header.php(51): do_action('yd_header')
+#4 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#5 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#6 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#7 /app/public/wp-content/plugins/woocommerce/templates/archive-product.php(23): get_header('shop')
+#8 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#9 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#10 /app/public/index.php(17): require('/ap
+
