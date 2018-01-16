@@ -190,8 +190,63 @@ padding: .5rem 1rem;
 
 
 .products > li > a > img {
-    width: 20px !important;
+    max-width: 100% !important;
+    max-height: 100% !important;
 }
+
+.page-title {
+    text-align: center !important;
+}
+.products > li > a  {
+    color: #0a0a0a;
+}
+.products > li > a:hover  {
+    color: #ff009d;
+    text-decoration: none;
+}
+.woocommerce-Price-amount {
+    /* color: red; */
+}
+
+.price ins {
+    font-weight: 400;
+    color: #0a0a0a;
+    font-size: 1.3em;
+}
+  .button  {
+    background-color: #ff009d;
+    border-color: #eeeeee;
+    color: #fff !important;
+      border-radius: 5px;
+} 
+.button:hover  {
+     
+    color: #0a0a0a !important;
+}
+.added_to_cart {
+    background-color: #eeeeee;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

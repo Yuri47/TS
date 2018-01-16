@@ -1,0 +1,68 @@
+2018/01/16 16:17:42 Using in-memory storage
+2018/01/16 16:17:42 [SMTP] Binding to address: 0.0.0.0:1025
+2018/01/16 16:17:42 Serving under http://:1080/
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] Starting session
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] [PROTO: INVALID] Started session, switching to ESTABLISH state
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] Sent 35 bytes: '220 mailhog.example ESMTP MailHog\r\n'
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] Received 16 bytes: 'EHLO localhost\r\n'
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] [PROTO: ESTABLISH] Processing line: EHLO localhost
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] [PROTO: ESTABLISH] In state 1, got command 'EHLO', args 'localhost'
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] [PROTO: ESTABLISH] In ESTABLISH state
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] [PROTO: ESTABLISH] Got EHLO command, switching to MAIL state
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] Sent 21 bytes: '250-Hello localhost\r\n'
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] Sent 16 bytes: '250-PIPELINING\r\n'
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] Sent 16 bytes: '250 AUTH PLAIN\r\n'
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] Received 35 bytes: 'MAIL FROM:<www-data@354d0e02365c>\r\n'
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] [PROTO: MAIL] Processing line: MAIL FROM:<www-data@354d0e02365c>
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] [PROTO: MAIL] In state 6, got command 'MAIL', args 'FROM:<www-data@354d0e02365c>'
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] [PROTO: MAIL] In MAIL state
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] [PROTO: MAIL] Got MAIL command, switching to RCPT state
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] Sent 37 bytes: '250 Sender www-data@354d0e02365c ok\r\n'
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] Received 34 bytes: 'RCPT TO:<mailhog@flywheel.local>\r\n'
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] [PROTO: RCPT] Processing line: RCPT TO:<mailhog@flywheel.local>
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] [PROTO: RCPT] In state 7, got command 'RCPT', args 'TO:<mailhog@flywheel.local>'
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] [PROTO: RCPT] In RCPT state
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] [PROTO: RCPT] Got RCPT command
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] Sent 41 bytes: '250 Recipient mailhog@flywheel.local ok\r\n'
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] Received 6 bytes: 'DATA\r\n'
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] [PROTO: RCPT] Processing line: DATA
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] [PROTO: RCPT] In state 7, got command 'DATA', args ''
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] [PROTO: RCPT] In RCPT state
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] [PROTO: RCPT] Got DATA command, switching to DATA state
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] Sent 37 bytes: '354 End data with <CR><LF>.<CR><LF>\r\n'
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] Received 1024 bytes: 'To: yuri.alexs.dev@gmail.com\r\nSubject: =?UTF-8?Q?[Tenta=C3=A7=C3=A3o_Sexy]_Please_moderate:_"Produto_Teste"?=\r\nX-PHP-Originating-Script: 1000:class-phpmailer.php\r\nDate: Tue, 16 Jan 2018 18:18:34 +0000\r\nFrom: WordPress <wordpress@tentacaosexy.wp>\r\nMessage-ID: <fb5b1d83962d15beb0462e3c99089fe4@tentacaosexy.wp>\r\nX-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=UTF-8\r\n\r\nA new comment on the post "Produto Teste" is waiting for your approval\r\nhttp://tentacaosexy.wp/product/produto-teste/\r\n\r\nAuthor: Yuri (IP address: 127.0.0.1, localhost)\r\nEmail: yuri.alexs.dev@gmail.com\r\nURL: \r\nComment: \r\nfoda\r\n\r\nApprove it: http://tentacaosexy.wp/wp-admin/comment.php?action=approve&c=2#wpbody-content\r\nTrash it: http://tentacaosexy.wp/wp-admin/comment.php?action=trash&c=2#wpbody-content\r\nSpam it: http://tentacaosexy.wp/wp-admin/comment.php?action=spam&c=2#wpbody-content\r\nCurrently 1 comment is waiting for approval. Please visit the moderation panel:\r\nhttp://te'
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] Received 87 bytes: 'ntacaosexy.wp/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content\r\n\r\n.\r\n'
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] [PROTO: DATA] Got EOF, storing message and switching to MAIL state
+2018/01/16 18:18:34 Parsing Content from string: 'To: yuri.alexs.dev@gmail.com
+Subject: =?UTF-8?Q?[Tenta=C3=A7=C3=A3o_Sexy]_Please_moderate:_"Produto_Teste"?=
+X-PHP-Originating-Script: 1000:class-phpmailer.php
+Date: Tue, 16 Jan 2018 18:18:34 +0000
+From: WordPress <wordpress@tentacaosexy.wp>
+Message-ID: <fb5b1d83962d15beb0462e3c99089fe4@tentacaosexy.wp>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+A new comment on the post "Produto Teste" is waiting for your approval
+http://tentacaosexy.wp/product/produto-teste/
+
+Author: Yuri (IP address: 127.0.0.1, localhost)
+Email: yuri.alexs.dev@gmail.com
+URL: 
+Comment: 
+foda
+
+Approve it: http://tentacaosexy.wp/wp-admin/comment.php?action=approve&c=2#wpbody-content
+Trash it: http://tentacaosexy.wp/wp-admin/comment.php?action=trash&c=2#wpbody-content
+Spam it: http://tentacaosexy.wp/wp-admin/comment.php?action=spam&c=2#wpbody-content
+Currently 1 comment is waiting for approval. Please visit the moderation panel:
+http://tentacaosexy.wp/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+'
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] Storing message ZSQWZX4eafARmV49dhIDVHfwK2xIurvu-I20URp6hPY=@mailhog.example
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] Sent 80 bytes: '250 Ok: queued as ZSQWZX4eafARmV49dhIDVHfwK2xIurvu-I20URp6hPY=@mailhog.example\r\n'
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] Received 6 bytes: 'QUIT\r\n'
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] [PROTO: MAIL] Processing line: QUIT
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] [PROTO: MAIL] In state 6, got command 'QUIT', args ''
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] [PROTO: MAIL] Got QUIT verb, staying in MAIL state
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] Sent 9 bytes: '221 Bye\r\n'
+2018/01/16 18:18:34 [SMTP 127.0.0.1:51132] Session ended

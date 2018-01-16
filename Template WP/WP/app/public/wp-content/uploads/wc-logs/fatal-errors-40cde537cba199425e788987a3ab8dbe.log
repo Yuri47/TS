@@ -193,3 +193,35 @@ Stack trace:
 #9 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
 #10 /app/public/index.php(17): require('/ap
 
+2018-01-16T18:26:31+00:00 CRITICAL Uncaught Error: Class 'Odin_Bootstrap_Nav_Walker' not found in /app/public/wp-content/themes/StoreFront-Child/functions.php:154
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): menu_preto('')
+#1 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /app/public/wp-content/themes/storefront/header.php(23): do_action('storefront_befo...')
+#4 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#5 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#6 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#7 /app/public/wp-content/themes/StoreFront-Child/woocommerce.php(13): get_header()
+#8 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#9 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#10 /app/public/index.php(17): require('/app/public/wp-...')
+#11 {main}
+  throw
+
+2018-01-16T18:26:32+00:00 CRITICAL Uncaught Error: Class 'Odin_Bootstrap_Nav_Walker' not found in /app/public/wp-content/themes/StoreFront-Child/functions.php:154
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): menu_preto('')
+#1 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /app/public/wp-content/themes/storefront/header.php(23): do_action('storefront_befo...')
+#4 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#5 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#6 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#7 /app/public/wp-content/themes/storefront/404.php(8): get_header()
+#8 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#9 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#10 /app/public/index.php(17): require('/app/public/wp-...')
+#11 {main}
+  thrown
+

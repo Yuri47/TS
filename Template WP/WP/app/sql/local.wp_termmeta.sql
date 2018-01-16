@@ -30,4 +30,5 @@ INSERT INTO `wp_termmeta` VALUES
 (26,25,"product_count_product_cat","4"),
 (27,26,"product_count_product_tag","4"),
 (28,27,"product_count_product_tag","4"),
-(29,28,"product_count_product_tag","4");
+(29,28,"product_count_product_tag","4"),
+(30,21,"product_count_product_cat","1");
