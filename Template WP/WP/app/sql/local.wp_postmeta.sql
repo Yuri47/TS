@@ -502,4 +502,10 @@ INSERT INTO `wp_postmeta` VALUES
 (541,84,"_wp_trash_meta_status","publish"),
 (542,84,"_wp_trash_meta_time","1516130865"),
 (543,85,"_wp_trash_meta_status","publish"),
-(544,85,"_wp_trash_meta_time","1516197836");
+(544,85,"_wp_trash_meta_time","1516197836"),
+(545,86,"_wp_trash_meta_status","publish"),
+(546,86,"_wp_trash_meta_time","1516217238"),
+(547,87,"_wp_trash_meta_status","publish"),
+(548,87,"_wp_trash_meta_time","1516217251"),
+(549,88,"_wp_trash_meta_status","publish"),
+(550,88,"_wp_trash_meta_time","1516221735");

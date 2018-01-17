@@ -277,10 +277,15 @@ padding: .5rem 1rem;
 .cart-contents{
     font-size: 1.2em;
 }
+.col-1, .col-2 {
+     
+    max-width: 100%;
+}
 
-
-
-
+.site-footer {
+    background-color: #0a0a0a;
+    color: #ffffff;
+}
 
 
 .temp1{

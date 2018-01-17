@@ -303,3 +303,42 @@ Stack trace:
 #10 /app/public/index.php(17): require('/app/public/wp-...')
 #11 {main}
   thrown in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 154
+[17-Jan-2018 17:50:38 UTC] PHP Warning:  require_once(/inc/functions.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:50:38 UTC] PHP Fatal error:  require_once(): Failed opening required '/inc/functions.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:51:05 UTC] PHP Warning:  require_once(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:51:05 UTC] PHP Warning:  require_once(http://tentacaosexy.wp/wp-content/themes/StoreFront-Child/inc/functions.php): failed to open stream: no suitable wrapper could be found in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:51:05 UTC] PHP Fatal error:  require_once(): Failed opening required 'http://tentacaosexy.wp/wp-content/themes/StoreFront-Child/inc/functions.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:51:27 UTC] PHP Warning:  require_once(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:51:27 UTC] PHP Warning:  require_once(http://tentacaosexy.wp/wp-content/themes/StoreFront-Child/inc/functions.php): failed to open stream: no suitable wrapper could be found in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:51:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'http://tentacaosexy.wp/wp-content/themes/StoreFront-Child/inc/functions.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:51:56 UTC] PHP Warning:  require_once(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:51:56 UTC] PHP Warning:  require_once(http://tentacaosexy.wp/wp-content/themes/StoreFront-Childinc/functions.php): failed to open stream: no suitable wrapper could be found in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:51:56 UTC] PHP Fatal error:  require_once(): Failed opening required 'http://tentacaosexy.wp/wp-content/themes/StoreFront-Childinc/functions.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:53:09 UTC] PHP Warning:  require_once(/app/public/wp-content/themes/storefront/inc/functions.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:53:09 UTC] PHP Fatal error:  require_once(): Failed opening required '/app/public/wp-content/themes/storefront/inc/functions.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:53:28 UTC] PHP Warning:  require_once(/app/public/wp-content/themes/storefront/inc/functions.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:53:28 UTC] PHP Fatal error:  require_once(): Failed opening required '/app/public/wp-content/themes/storefront/inc/functions.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:53:34 UTC] PHP Warning:  require_once(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:53:34 UTC] PHP Warning:  require_once(http://tentacaosexy.wp/wp-content/themes/storefront/inc/functions.php): failed to open stream: no suitable wrapper could be found in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:53:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'http://tentacaosexy.wp/wp-content/themes/storefront/inc/functions.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:54:39 UTC] PHP Warning:  require_once(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:54:39 UTC] PHP Warning:  require_once(http://tentacaosexy.wp/wp-content/themes/StoreFront-Child/inc/functions.php): failed to open stream: no suitable wrapper could be found in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:54:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'http://tentacaosexy.wp/wp-content/themes/StoreFront-Child/inc/functions.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:55:28 UTC] PHP Warning:  require_once(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:55:28 UTC] PHP Warning:  require_once(http://tentacaosexy.wp/wp-content/themes/StoreFront-Child/inc/functions.php): failed to open stream: no suitable wrapper could be found in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:55:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'http://tentacaosexy.wp/wp-content/themes/StoreFront-Child/inc/functions.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:56:14 UTC] PHP Warning:  require_once(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:56:14 UTC] PHP Warning:  require_once(http://tentacaosexy.wp/wp-content/themes/StoreFront-Child/inc/functions.php): failed to open stream: no suitable wrapper could be found in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 17:56:14 UTC] PHP Fatal error:  require_once(): Failed opening required 'http://tentacaosexy.wp/wp-content/themes/StoreFront-Child/inc/functions.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/StoreFront-Child/functions.php on line 3
+[17-Jan-2018 18:59:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/StoreFront-Child/inc/functions.php on line 160
+[17-Jan-2018 20:15:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Odin_Bootstrap_Nav_Walker' not found in /app/public/wp-content/themes/StoreFront-Child/footer.php:45
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /app/public/wp-content/themes/storefront/page.php(41): get_footer()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/StoreFront-Child/footer.php on line 45

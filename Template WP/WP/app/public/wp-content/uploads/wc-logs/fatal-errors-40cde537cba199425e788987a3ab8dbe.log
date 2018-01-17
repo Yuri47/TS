@@ -225,3 +225,15 @@ Stack trace:
 #11 {main}
   thrown
 
+2018-01-17T20:15:27+00:00 CRITICAL Uncaught Error: Class 'Odin_Bootstrap_Nav_Walker' not found in /app/public/wp-content/themes/StoreFront-Child/footer.php:45
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /app/public/wp-content/themes/storefront/page.php(41): get_footer()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown
+
