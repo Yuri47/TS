@@ -36,96 +36,11 @@ Creating API v2 with WebPath:
 [APIv1] KEEPALIVE /api/v1/events
 [APIv1] KEEPALIVE /api/v1/events
 [APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
-[APIv1] KEEPALIVE /api/v1/events
 Got message in APIv2 websocket channel
 [APIv2] BROADCAST /api/v2/websocket
 Got message in APIv1 event stream
 Sending content: {
-  "ID": "ZSQWZX4eafARmV49dhIDVHfwK2xIurvu-I20URp6hPY=@mailhog.example",
+  "ID": "IUUVLRu2uwy0NRbxkQ9Zrb_f22VkYLWnyADUDHvE0Pc=@mailhog.example",
   "From": {
     "Relays": null,
     "Mailbox": "www-data",
@@ -146,7 +61,7 @@ Sending content: {
         "text/plain; charset=UTF-8"
       ],
       "Date": [
-        "Tue, 16 Jan 2018 18:18:34 +0000"
+        "Wed, 17 Jan 2018 12:38:15 +0000"
       ],
       "From": [
         "WordPress \u003cwordpress@tentacaosexy.wp\u003e"
@@ -155,16 +70,16 @@ Sending content: {
         "1.0"
       ],
       "Message-ID": [
-        "\u003cfb5b1d83962d15beb0462e3c99089fe4@tentacaosexy.wp\u003e"
+        "\u003c12a58f25b200e5eb24655f7d49a03951@tentacaosexy.wp\u003e"
       ],
       "Received": [
-        "from localhost by mailhog.example (MailHog)\r\n          id ZSQWZX4eafARmV49dhIDVHfwK2xIurvu-I20URp6hPY=@mailhog.example; Tue, 16 Jan 2018 18:18:34 +0000"
+        "from localhost by mailhog.example (MailHog)\r\n          id IUUVLRu2uwy0NRbxkQ9Zrb_f22VkYLWnyADUDHvE0Pc=@mailhog.example; Wed, 17 Jan 2018 12:38:15 +0000"
       ],
       "Return-Path": [
         "\u003cwww-data@354d0e02365c\u003e"
       ],
       "Subject": [
-        "=?UTF-8?Q?[Tenta=C3=A7=C3=A3o_Sexy]_Please_moderate:_\"Produto_Teste\"?="
+        "=?UTF-8?Q?[Tenta=C3=A7=C3=A3o_Sexy]_Your_site_has_updated_to_WordPress_4.?=  =?UTF-8?Q?9.2?="
       ],
       "To": [
         "yuri.alexs.dev@gmail.com"
@@ -176,23 +91,198 @@ Sending content: {
         "1000:class-phpmailer.php"
       ]
     },
-    "Body": "A new comment on the post \"Produto Teste\" is waiting for your approval\r\nhttp://tentacaosexy.wp/product/produto-teste/\r\n\r\nAuthor: Yuri (IP address: 127.0.0.1, localhost)\r\nEmail: yuri.alexs.dev@gmail.com\r\nURL: \r\nComment: \r\nfoda\r\n\r\nApprove it: http://tentacaosexy.wp/wp-admin/comment.php?action=approve\u0026c=2#wpbody-content\r\nTrash it: http://tentacaosexy.wp/wp-admin/comment.php?action=trash\u0026c=2#wpbody-content\r\nSpam it: http://tentacaosexy.wp/wp-admin/comment.php?action=spam\u0026c=2#wpbody-content\r\nCurrently 1 comment is waiting for approval. Please visit the moderation panel:\r\nhttp://tentacaosexy.wp/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content\r\n",
-    "Size": 1106,
+    "Body": "Howdy! Your site at http://tentacaosexy.wp has been updated automatically to WordPress 4.9.2.\r\n\r\nNo further action is needed on your part. For more on version 4.9.2, see the About WordPress screen:\r\nhttp://tentacaosexy.wp/wp-admin/about.php\r\n\r\nIf you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.\r\nhttps://wordpress.org/support/\r\n\r\nYou also have some plugins or themes with updates available. Update them now:\r\nhttp://tentacaosexy.wp/wp-admin/\r\n\r\nThe WordPress Team\r\n",
+    "Size": 996,
     "MIME": null
   },
-  "Created": "2018-01-16T18:18:34.459991505Z",
+  "Created": "2018-01-17T12:38:15.496989312Z",
   "MIME": null,
   "Raw": {
     "From": "www-data@354d0e02365c",
     "To": [
       "mailhog@flywheel.local"
     ],
-    "Data": "To: yuri.alexs.dev@gmail.com\r\nSubject: =?UTF-8?Q?[Tenta=C3=A7=C3=A3o_Sexy]_Please_moderate:_\"Produto_Teste\"?=\r\nX-PHP-Originating-Script: 1000:class-phpmailer.php\r\nDate: Tue, 16 Jan 2018 18:18:34 +0000\r\nFrom: WordPress \u003cwordpress@tentacaosexy.wp\u003e\r\nMessage-ID: \u003cfb5b1d83962d15beb0462e3c99089fe4@tentacaosexy.wp\u003e\r\nX-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=UTF-8\r\n\r\nA new comment on the post \"Produto Teste\" is waiting for your approval\r\nhttp://tentacaosexy.wp/product/produto-teste/\r\n\r\nAuthor: Yuri (IP address: 127.0.0.1, localhost)\r\nEmail: yuri.alexs.dev@gmail.com\r\nURL: \r\nComment: \r\nfoda\r\n\r\nApprove it: http://tentacaosexy.wp/wp-admin/comment.php?action=approve\u0026c=2#wpbody-content\r\nTrash it: http://tentacaosexy.wp/wp-admin/comment.php?action=trash\u0026c=2#wpbody-content\r\nSpam it: http://tentacaosexy.wp/wp-admin/comment.php?action=spam\u0026c=2#wpbody-content\r\nCurrently 1 comment is waiting for approval. Please visit the moderation panel:\r\nhttp://tentacaosexy.wp/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content\r\n",
+    "Data": "To: yuri.alexs.dev@gmail.com\r\nSubject: =?UTF-8?Q?[Tenta=C3=A7=C3=A3o_Sexy]_Your_site_has_updated_to_WordPress_4.?=  =?UTF-8?Q?9.2?=\r\nX-PHP-Originating-Script: 1000:class-phpmailer.php\r\nDate: Wed, 17 Jan 2018 12:38:15 +0000\r\nFrom: WordPress \u003cwordpress@tentacaosexy.wp\u003e\r\nMessage-ID: \u003c12a58f25b200e5eb24655f7d49a03951@tentacaosexy.wp\u003e\r\nX-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=UTF-8\r\n\r\nHowdy! Your site at http://tentacaosexy.wp has been updated automatically to WordPress 4.9.2.\r\n\r\nNo further action is needed on your part. For more on version 4.9.2, see the About WordPress screen:\r\nhttp://tentacaosexy.wp/wp-admin/about.php\r\n\r\nIf you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.\r\nhttps://wordpress.org/support/\r\n\r\nYou also have some plugins or themes with updates available. Update them now:\r\nhttp://tentacaosexy.wp/wp-admin/\r\n\r\nThe WordPress Team\r\n",
     "Helo": "localhost"
   }
 }
 
 [APIv1] BROADCAST /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
 [APIv1] KEEPALIVE /api/v1/events
 [APIv1] KEEPALIVE /api/v1/events
 [APIv1] KEEPALIVE /api/v1/events

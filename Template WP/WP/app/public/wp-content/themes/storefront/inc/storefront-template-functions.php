@@ -172,7 +172,7 @@ if ( ! function_exists( 'storefront_site_branding' ) ) {
 if ( ! function_exists( 'storefront_site_title_or_logo' ) ) {
 	/**
 	 * Display the site title or logo
-	 *
+	 *class="img-fluid mx-auto logo"
 	 * @since 2.1.0
 	 * @param bool $echo Echo the string or return it.
 	 * @return string
