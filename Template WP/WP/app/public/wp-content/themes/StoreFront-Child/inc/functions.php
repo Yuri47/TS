@@ -19,14 +19,31 @@ register_nav_menus( array(
 
 
 
-//HEADER
 
+//HOOKS
 add_action('yd-header', 'menu_preto', 1);
 add_action('yd-header', 'menu_branco', 3);
 add_action('yd-header', 'menu_categoria', 5);
+add_action('storefront_before_site', 'modal_login', 1);
 
 
 
+
+
+//FUNÇÕES
+
+function mostrar_nome() {
+                $name = get_currentuserinfo()->display_name;
+              echo $name . " (não é $name? <a href=" . wp_logout_url( get_permalink() ). " id='logado'>SAIR</a>)";
+          }
+function ola() {
+        ?>
+        <span> JÁ COMPROU CONOSCO ANTES? FAÇA</span> <a href="#" data-toggle="modal" data-target="#modalLogin" id='deslogado'>LOGIN </a>
+        <?php
+    }
+         
+
+//HEADER
 function menu_preto() {
      
     ?>
@@ -92,7 +109,10 @@ function menu_branco() {
     <div class="col-8">
        <div class="input-group py-3">
         <p>
-         BEM VINDO, <a href="">CADASTRE-SE </a> <span>OU FAÇA</span> <a href="">LOGIN </a>
+       
+        
+        
+         OLÁ, <?php if (is_user_logged_in() ? mostrar_nome() : ola()); ?>
          </p>
         <form action="" class="form-inline"> 
        <div class="input-group pesquisa">
@@ -191,23 +211,42 @@ function menu_categoria () {
   </div>
    
 </nav>
-   
-  
- 
-
-
-
+    
 
 <?php
-
-
-
-
+ 
 
 }
  
 
-
+function modal_login() {
+    ?>
+    <!-- Modal -->
+<div class="modal fade " id="modalLogin" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel"> Login</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+         <?php
+          
+          
+          if (is_user_logged_in() ? mostrar_nome() : woocommerce_login_form());
+          ?>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+        
+      </div>
+    </div>
+  </div>
+</div>
+<?php
+}
 
 
 

@@ -1,0 +1,927 @@
+[HTTP] Binding to address: :1080
+Creating API v1 with WebPath: 
+Creating API v2 with WebPath: 
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+Got message in APIv2 websocket channel
+[APIv2] BROADCAST /api/v2/websocket
+Got message in APIv1 event stream
+Sending content: {
+  "ID": "Y27BcYmFgjcfyBHQgrOClboLS0yc8MtlQs_GZ8GJuZk=@mailhog.example",
+  "From": {
+    "Relays": null,
+    "Mailbox": "www-data",
+    "Domain": "354d0e02365c",
+    "Params": ""
+  },
+  "To": [
+    {
+      "Relays": null,
+      "Mailbox": "mailhog",
+      "Domain": "flywheel.local",
+      "Params": ""
+    }
+  ],
+  "Content": {
+    "Headers": {
+      "Content-Transfer-Encoding": [
+        "8bit"
+      ],
+      "Content-Type": [
+        "text/html; charset=UTF-8"
+      ],
+      "Date": [
+        "Thu, 18 Jan 2018 15:18:14 +0000"
+      ],
+      "From": [
+        "=?UTF-8?Q?Tenta=C3=A7=C3=A3o_Sexy?= \u003cyuri.alexs.dev@gmail.com\u003e"
+      ],
+      "MIME-Version": [
+        "1.0"
+      ],
+      "Message-ID": [
+        "\u003c2a7d62fa8c81b3dc5fe7cf75e6794191@tentacaosexy.wp\u003e"
+      ],
+      "Received": [
+        "from localhost by mailhog.example (MailHog)\r\n          id Y27BcYmFgjcfyBHQgrOClboLS0yc8MtlQs_GZ8GJuZk=@mailhog.example; Thu, 18 Jan 2018 15:18:14 +0000"
+      ],
+      "Reply-To": [
+        "Yuri Caetano \u003cyuri.alexs@gmail.com\u003e"
+      ],
+      "Return-Path": [
+        "\u003cwww-data@354d0e02365c\u003e"
+      ],
+      "Subject": [
+        "=?UTF-8?Q?[Tenta=C3=A7=C3=A3o_Sexy]_New_customer_order_(89)_-_January_18,?=  =?UTF-8?Q?_2018?="
+      ],
+      "To": [
+        "yuri.alexs.dev@gmail.com"
+      ],
+      "X-Mailer": [
+        "PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)"
+      ],
+      "X-PHP-Originating-Script": [
+        "1000:class-phpmailer.php"
+      ]
+    },
+    "Body": "\u003c!DOCTYPE html\u003e\r\n\u003chtml lang=\"en-US\"\u003e\r\n\u003chead\u003e\r\n\u003cmeta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"\u003e\r\n\u003ctitle\u003eTentação Sexy\u003c/title\u003e\r\n\u003c/head\u003e\r\n\u003cbody leftmargin=\"0\" marginwidth=\"0\" topmargin=\"0\" marginheight=\"0\" offset=\"0\"\u003e\r\n\t\t\u003cdiv id=\"wrapper\" dir=\"ltr\" style=\"background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;\"\u003e\r\n\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"100%\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\u003cdiv id=\"template_header_image\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/div\u003e\r\n\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_container\" style=\"box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #ffffff; border: 1px solid #dedede; border-radius: 3px !important;\"\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Header --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_header\" style='background-color: #96588a; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif;'\u003e\u003ctr\u003e\r\n\u003ctd id=\"header_wrapper\" style=\"padding: 36px 48px; display: block;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ch1 style='color: #ffffff; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #ab79a1; -webkit-font-smoothing: antialiased;'\u003eNew customer order\u003c/h1\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Header --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Body --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_body\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" id=\"body_content\" style=\"background-color: #ffffff;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003c!-- Content --\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"20\" cellspacing=\"0\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" style=\"padding: 48px 48px 0;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cdiv id=\"body_content_inner\" style='color: #636363; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'\u003e\r\n\r\n \u003cp style=\"margin: 0 0 16px;\"\u003eYou have received an order from Yuri Caetano. The order is as\r\nfollows:\u003c/p\u003e\r\n\r\n \r\n\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003e\r\n\u003ca class=\"link\" href=\"http://tentacaosexy.wp/wp-admin/post.php?post=89\u0026amp;action=edit\" style=\"color: #96588a; font-weight: normal; text-decoration: underline;\"\u003eOrder\r\n#89\u003c/a\u003e (\u003ctime datetime=\"2018-01-18T15:18:12+00:00\"\u003eJanuary 18,\r\n2018\u003c/time\u003e)\u003c/h2\u003e\r\n\r\n\u003cdiv style=\"margin-bottom: 40px;\"\u003e\r\n\t\u003ctable class=\"td\" cellspacing=\"0\" cellpadding=\"6\" style=\"width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; color: #636363; border: 1px solid #e5e5e5;\" border=\"1\"\u003e\r\n\u003cthead\u003e\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eProduct\u003c/th\u003e\r\n\t\t\t\t\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eQuantity\u003c/th\u003e\r\n\t\t\t\t\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003ePrice\u003c/th\u003e\r\n\t\t\t\u003c/tr\u003e\u003c/thead\u003e\r\n\u003ctbody\u003e\r\n\u003ctr class=\"order_item\"\u003e\r\n\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;\"\u003eEntires Your\r\nDamn\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e1\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount\r\namount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e11,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\u003c/tr\u003e\r\n\u003ctr class=\"order_item\"\u003e\r\n\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;\"\u003eEntires Your\r\nSoul\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e1\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount\r\namount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e11,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\u003c/tr\u003e\r\n\u003ctr class=\"order_item\"\u003e\r\n\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;\"\u003eAnother Produto\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e1\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount\r\namount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e11,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\u003c/tr\u003e\r\n\u003c/tbody\u003e\r\n\u003ctfoot\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eSubtotal:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e33,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eShipping:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\r\n\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e12,00\u003c/span\u003e \u003csmall class=\"shipped_via\"\u003evia Flat rate\u003c/small\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003ePayment method:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eCheck payments\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eTotal:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e45,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003c/tfoot\u003e\r\n\u003c/table\u003e\r\n\u003c/div\u003e\r\n\r\n\u003ctable id=\"addresses\" cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; vertical-align: top; margin-bottom: 40px; padding: 0;\" border=\"0\"\u003e\u003ctr\u003e\r\n\u003ctd style=\"text-align: left; border: 0; padding: 0;\" valign=\"top\" width=\"50%\"\u003e\r\n\t\t\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003eBilling address\u003c/h2\u003e\r\n\r\n\t\t\t\u003caddress class=\"address\" style=\"padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;\"\u003e\r\n\t\t\t\tYuri Caetano\u003cbr\u003eQC 01 Conjunto D 04 Loja\r\n03\u003cbr\u003e04\u003cbr\u003eBrasília\u003cbr\u003eDistrito\r\nFederal\u003cbr\u003e72535-040\t\t\t\t\t\t\t\t\t\u003cbr\u003e61991829742\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cp style=\"margin: 0 0 16px;\"\u003eyuri.alexs@gmail.com\u003c/p\u003e\r\n\t\t\t\t\t\t\t\u003c/address\u003e\r\n\t\t\u003c/td\u003e\r\n\t\t\t\t\t\u003ctd style=\"text-align: left; padding: 0;\" valign=\"top\" width=\"50%\"\u003e\r\n\t\t\t\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003eShipping address\u003c/h2\u003e\r\n\r\n\t\t\t\t\u003caddress class=\"address\" style=\"padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;\"\u003eYuri Caetano\u003cbr\u003eQC 01 Conjunto D 04 Loja\r\n03\u003cbr\u003e04\u003cbr\u003eBrasília\u003cbr\u003eDistrito Federal\u003cbr\u003e72535040\u003c/address\u003e\r\n\t\t\t\u003c/td\u003e\r\n\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/div\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Content --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Body --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Footer --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"10\" cellspacing=\"0\" width=\"600\" id=\"template_footer\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" style=\"padding: 0; -webkit-border-radius: 6px;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"10\" cellspacing=\"0\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd colspan=\"2\" valign=\"middle\" id=\"credit\" style=\"padding: 0 48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #c09bb9; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cp\u003eTentação Sexy\u003c/p\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Footer --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003c/table\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/div\u003e\r\n\t\u003c/body\u003e\r\n\u003c/html\u003e\r\n",
+    "Size": 9591,
+    "MIME": null
+  },
+  "Created": "2018-01-18T15:18:14.633457211Z",
+  "MIME": null,
+  "Raw": {
+    "From": "www-data@354d0e02365c",
+    "To": [
+      "mailhog@flywheel.local"
+    ],
+    "Data": "To: yuri.alexs.dev@gmail.com\r\nSubject: =?UTF-8?Q?[Tenta=C3=A7=C3=A3o_Sexy]_New_customer_order_(89)_-_January_18,?=  =?UTF-8?Q?_2018?=\r\nX-PHP-Originating-Script: 1000:class-phpmailer.php\r\nDate: Thu, 18 Jan 2018 15:18:14 +0000\r\nFrom: =?UTF-8?Q?Tenta=C3=A7=C3=A3o_Sexy?= \u003cyuri.alexs.dev@gmail.com\u003e\r\nReply-To: Yuri Caetano \u003cyuri.alexs@gmail.com\u003e\r\nMessage-ID: \u003c2a7d62fa8c81b3dc5fe7cf75e6794191@tentacaosexy.wp\u003e\r\nX-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)\r\nMIME-Version: 1.0\r\nContent-Type: text/html; charset=UTF-8\r\nContent-Transfer-Encoding: 8bit\r\n\r\n\u003c!DOCTYPE html\u003e\r\n\u003chtml lang=\"en-US\"\u003e\r\n\u003chead\u003e\r\n\u003cmeta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"\u003e\r\n\u003ctitle\u003eTentação Sexy\u003c/title\u003e\r\n\u003c/head\u003e\r\n\u003cbody leftmargin=\"0\" marginwidth=\"0\" topmargin=\"0\" marginheight=\"0\" offset=\"0\"\u003e\r\n\t\t\u003cdiv id=\"wrapper\" dir=\"ltr\" style=\"background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;\"\u003e\r\n\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"100%\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\u003cdiv id=\"template_header_image\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/div\u003e\r\n\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_container\" style=\"box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #ffffff; border: 1px solid #dedede; border-radius: 3px !important;\"\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Header --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_header\" style='background-color: #96588a; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif;'\u003e\u003ctr\u003e\r\n\u003ctd id=\"header_wrapper\" style=\"padding: 36px 48px; display: block;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ch1 style='color: #ffffff; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #ab79a1; -webkit-font-smoothing: antialiased;'\u003eNew customer order\u003c/h1\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Header --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Body --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_body\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" id=\"body_content\" style=\"background-color: #ffffff;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003c!-- Content --\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"20\" cellspacing=\"0\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" style=\"padding: 48px 48px 0;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cdiv id=\"body_content_inner\" style='color: #636363; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'\u003e\r\n\r\n \u003cp style=\"margin: 0 0 16px;\"\u003eYou have received an order from Yuri Caetano. The order is as\r\nfollows:\u003c/p\u003e\r\n\r\n \r\n\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003e\r\n\u003ca class=\"link\" href=\"http://tentacaosexy.wp/wp-admin/post.php?post=89\u0026amp;action=edit\" style=\"color: #96588a; font-weight: normal; text-decoration: underline;\"\u003eOrder\r\n#89\u003c/a\u003e (\u003ctime datetime=\"2018-01-18T15:18:12+00:00\"\u003eJanuary 18,\r\n2018\u003c/time\u003e)\u003c/h2\u003e\r\n\r\n\u003cdiv style=\"margin-bottom: 40px;\"\u003e\r\n\t\u003ctable class=\"td\" cellspacing=\"0\" cellpadding=\"6\" style=\"width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; color: #636363; border: 1px solid #e5e5e5;\" border=\"1\"\u003e\r\n\u003cthead\u003e\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eProduct\u003c/th\u003e\r\n\t\t\t\t\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eQuantity\u003c/th\u003e\r\n\t\t\t\t\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003ePrice\u003c/th\u003e\r\n\t\t\t\u003c/tr\u003e\u003c/thead\u003e\r\n\u003ctbody\u003e\r\n\u003ctr class=\"order_item\"\u003e\r\n\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;\"\u003eEntires Your\r\nDamn\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e1\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount\r\namount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e11,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\u003c/tr\u003e\r\n\u003ctr class=\"order_item\"\u003e\r\n\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;\"\u003eEntires Your\r\nSoul\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e1\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount\r\namount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e11,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\u003c/tr\u003e\r\n\u003ctr class=\"order_item\"\u003e\r\n\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;\"\u003eAnother Produto\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e1\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount\r\namount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e11,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\u003c/tr\u003e\r\n\u003c/tbody\u003e\r\n\u003ctfoot\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eSubtotal:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e33,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eShipping:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\r\n\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e12,00\u003c/span\u003e \u003csmall class=\"shipped_via\"\u003evia Flat rate\u003c/small\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003ePayment method:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eCheck payments\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eTotal:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e45,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003c/tfoot\u003e\r\n\u003c/table\u003e\r\n\u003c/div\u003e\r\n\r\n\u003ctable id=\"addresses\" cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; vertical-align: top; margin-bottom: 40px; padding: 0;\" border=\"0\"\u003e\u003ctr\u003e\r\n\u003ctd style=\"text-align: left; border: 0; padding: 0;\" valign=\"top\" width=\"50%\"\u003e\r\n\t\t\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003eBilling address\u003c/h2\u003e\r\n\r\n\t\t\t\u003caddress class=\"address\" style=\"padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;\"\u003e\r\n\t\t\t\tYuri Caetano\u003cbr\u003eQC 01 Conjunto D 04 Loja\r\n03\u003cbr\u003e04\u003cbr\u003eBrasília\u003cbr\u003eDistrito\r\nFederal\u003cbr\u003e72535-040\t\t\t\t\t\t\t\t\t\u003cbr\u003e61991829742\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cp style=\"margin: 0 0 16px;\"\u003eyuri.alexs@gmail.com\u003c/p\u003e\r\n\t\t\t\t\t\t\t\u003c/address\u003e\r\n\t\t\u003c/td\u003e\r\n\t\t\t\t\t\u003ctd style=\"text-align: left; padding: 0;\" valign=\"top\" width=\"50%\"\u003e\r\n\t\t\t\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003eShipping address\u003c/h2\u003e\r\n\r\n\t\t\t\t\u003caddress class=\"address\" style=\"padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;\"\u003eYuri Caetano\u003cbr\u003eQC 01 Conjunto D 04 Loja\r\n03\u003cbr\u003e04\u003cbr\u003eBrasília\u003cbr\u003eDistrito Federal\u003cbr\u003e72535040\u003c/address\u003e\r\n\t\t\t\u003c/td\u003e\r\n\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/div\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Content --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Body --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Footer --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"10\" cellspacing=\"0\" width=\"600\" id=\"template_footer\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" style=\"padding: 0; -webkit-border-radius: 6px;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"10\" cellspacing=\"0\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd colspan=\"2\" valign=\"middle\" id=\"credit\" style=\"padding: 0 48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #c09bb9; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cp\u003eTentação Sexy\u003c/p\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Footer --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003c/table\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/div\u003e\r\n\t\u003c/body\u003e\r\n\u003c/html\u003e\r\n",
+    "Helo": "localhost"
+  }
+}
+
+[APIv1] BROADCAST /api/v1/events
+Got message in APIv2 websocket channel
+[APIv2] BROADCAST /api/v2/websocket
+Got message in APIv1 event stream
+Sending content: {
+  "ID": "9aj6MvuegTaEr8O1DE-YUxwS_mRSlqVfUWWlULmGGfo=@mailhog.example",
+  "From": {
+    "Relays": null,
+    "Mailbox": "www-data",
+    "Domain": "354d0e02365c",
+    "Params": ""
+  },
+  "To": [
+    {
+      "Relays": null,
+      "Mailbox": "mailhog",
+      "Domain": "flywheel.local",
+      "Params": ""
+    }
+  ],
+  "Content": {
+    "Headers": {
+      "Content-Transfer-Encoding": [
+        "8bit"
+      ],
+      "Content-Type": [
+        "text/html; charset=UTF-8"
+      ],
+      "Date": [
+        "Thu, 18 Jan 2018 15:18:14 +0000"
+      ],
+      "From": [
+        "=?UTF-8?Q?Tenta=C3=A7=C3=A3o_Sexy?= \u003cyuri.alexs.dev@gmail.com\u003e"
+      ],
+      "MIME-Version": [
+        "1.0"
+      ],
+      "Message-ID": [
+        "\u003c890ce2b369d3715b18f49946ee28773c@tentacaosexy.wp\u003e"
+      ],
+      "Received": [
+        "from localhost by mailhog.example (MailHog)\r\n          id 9aj6MvuegTaEr8O1DE-YUxwS_mRSlqVfUWWlULmGGfo=@mailhog.example; Thu, 18 Jan 2018 15:18:14 +0000"
+      ],
+      "Return-Path": [
+        "\u003cwww-data@354d0e02365c\u003e"
+      ],
+      "Subject": [
+        "=?UTF-8?Q?Your_Tenta=C3=A7=C3=A3o_Sexy_order_receipt_from_January_18,_201?=  =?UTF-8?Q?8?="
+      ],
+      "To": [
+        "yuri.alexs@gmail.com"
+      ],
+      "X-Mailer": [
+        "PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)"
+      ],
+      "X-PHP-Originating-Script": [
+        "1000:class-phpmailer.php"
+      ]
+    },
+    "Body": "\u003c!DOCTYPE html\u003e\r\n\u003chtml lang=\"en-US\"\u003e\r\n\u003chead\u003e\r\n\u003cmeta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"\u003e\r\n\u003ctitle\u003eTentação Sexy\u003c/title\u003e\r\n\u003c/head\u003e\r\n\u003cbody leftmargin=\"0\" marginwidth=\"0\" topmargin=\"0\" marginheight=\"0\" offset=\"0\"\u003e\r\n\t\t\u003cdiv id=\"wrapper\" dir=\"ltr\" style=\"background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;\"\u003e\r\n\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"100%\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\u003cdiv id=\"template_header_image\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/div\u003e\r\n\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_container\" style=\"box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #ffffff; border: 1px solid #dedede; border-radius: 3px !important;\"\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Header --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_header\" style='background-color: #96588a; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif;'\u003e\u003ctr\u003e\r\n\u003ctd id=\"header_wrapper\" style=\"padding: 36px 48px; display: block;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ch1 style='color: #ffffff; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #ab79a1; -webkit-font-smoothing: antialiased;'\u003eThank you for your order\u003c/h1\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Header --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Body --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_body\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" id=\"body_content\" style=\"background-color: #ffffff;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003c!-- Content --\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"20\" cellspacing=\"0\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" style=\"padding: 48px 48px 0;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cdiv id=\"body_content_inner\" style='color: #636363; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'\u003e\r\n\r\n\u003cp style=\"margin: 0 0 16px;\"\u003eYour order is on-hold until we confirm payment has been received.\r\nYour order details are shown below for your reference:\u003c/p\u003e\r\n\r\n\r\n\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003eOrder #89 (\u003ctime datetime=\"2018-01-18T15:18:12+00:00\"\u003eJanuary 18,\r\n2018\u003c/time\u003e)\u003c/h2\u003e\r\n\r\n\u003cdiv style=\"margin-bottom: 40px;\"\u003e\r\n\t\u003ctable class=\"td\" cellspacing=\"0\" cellpadding=\"6\" style=\"width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; color: #636363; border: 1px solid #e5e5e5;\" border=\"1\"\u003e\r\n\u003cthead\u003e\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eProduct\u003c/th\u003e\r\n\t\t\t\t\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eQuantity\u003c/th\u003e\r\n\t\t\t\t\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003ePrice\u003c/th\u003e\r\n\t\t\t\u003c/tr\u003e\u003c/thead\u003e\r\n\u003ctbody\u003e\r\n\u003ctr class=\"order_item\"\u003e\r\n\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;\"\u003eEntires Your\r\nDamn\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e1\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount\r\namount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e11,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\u003c/tr\u003e\r\n\u003ctr class=\"order_item\"\u003e\r\n\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;\"\u003eEntires Your\r\nSoul\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e1\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount\r\namount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e11,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\u003c/tr\u003e\r\n\u003ctr class=\"order_item\"\u003e\r\n\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;\"\u003eAnother Produto\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e1\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount\r\namount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e11,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\u003c/tr\u003e\r\n\u003c/tbody\u003e\r\n\u003ctfoot\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eSubtotal:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e33,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eShipping:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\r\n\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e12,00\u003c/span\u003e \u003csmall class=\"shipped_via\"\u003evia Flat rate\u003c/small\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003ePayment method:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eCheck payments\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eTotal:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e45,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003c/tfoot\u003e\r\n\u003c/table\u003e\r\n\u003c/div\u003e\r\n\r\n\u003ctable id=\"addresses\" cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; vertical-align: top; margin-bottom: 40px; padding: 0;\" border=\"0\"\u003e\u003ctr\u003e\r\n\u003ctd style=\"text-align: left; border: 0; padding: 0;\" valign=\"top\" width=\"50%\"\u003e\r\n\t\t\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003eBilling address\u003c/h2\u003e\r\n\r\n\t\t\t\u003caddress class=\"address\" style=\"padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;\"\u003e\r\n\t\t\t\tYuri Caetano\u003cbr\u003eQC 01 Conjunto D 04 Loja\r\n03\u003cbr\u003e04\u003cbr\u003eBrasília\u003cbr\u003eDistrito\r\nFederal\u003cbr\u003e72535-040\t\t\t\t\t\t\t\t\t\u003cbr\u003e61991829742\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cp style=\"margin: 0 0 16px;\"\u003eyuri.alexs@gmail.com\u003c/p\u003e\r\n\t\t\t\t\t\t\t\u003c/address\u003e\r\n\t\t\u003c/td\u003e\r\n\t\t\t\t\t\u003ctd style=\"text-align: left; padding: 0;\" valign=\"top\" width=\"50%\"\u003e\r\n\t\t\t\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003eShipping address\u003c/h2\u003e\r\n\r\n\t\t\t\t\u003caddress class=\"address\" style=\"padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;\"\u003eYuri Caetano\u003cbr\u003eQC 01 Conjunto D 04 Loja\r\n03\u003cbr\u003e04\u003cbr\u003eBrasília\u003cbr\u003eDistrito Federal\u003cbr\u003e72535040\u003c/address\u003e\r\n\t\t\t\u003c/td\u003e\r\n\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/div\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Content --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Body --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Footer --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"10\" cellspacing=\"0\" width=\"600\" id=\"template_footer\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" style=\"padding: 0; -webkit-border-radius: 6px;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"10\" cellspacing=\"0\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd colspan=\"2\" valign=\"middle\" id=\"credit\" style=\"padding: 0 48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #c09bb9; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cp\u003eTentação Sexy\u003c/p\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Footer --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003c/table\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/div\u003e\r\n\t\u003c/body\u003e\r\n\u003c/html\u003e\r\n",
+    "Size": 9422,
+    "MIME": null
+  },
+  "Created": "2018-01-18T15:18:14.797888254Z",
+  "MIME": null,
+  "Raw": {
+    "From": "www-data@354d0e02365c",
+    "To": [
+      "mailhog@flywheel.local"
+    ],
+    "Data": "To: yuri.alexs@gmail.com\r\nSubject: =?UTF-8?Q?Your_Tenta=C3=A7=C3=A3o_Sexy_order_receipt_from_January_18,_201?=  =?UTF-8?Q?8?=\r\nX-PHP-Originating-Script: 1000:class-phpmailer.php\r\nDate: Thu, 18 Jan 2018 15:18:14 +0000\r\nFrom: =?UTF-8?Q?Tenta=C3=A7=C3=A3o_Sexy?= \u003cyuri.alexs.dev@gmail.com\u003e\r\nMessage-ID: \u003c890ce2b369d3715b18f49946ee28773c@tentacaosexy.wp\u003e\r\nX-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)\r\nMIME-Version: 1.0\r\nContent-Type: text/html; charset=UTF-8\r\nContent-Transfer-Encoding: 8bit\r\n\r\n\u003c!DOCTYPE html\u003e\r\n\u003chtml lang=\"en-US\"\u003e\r\n\u003chead\u003e\r\n\u003cmeta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"\u003e\r\n\u003ctitle\u003eTentação Sexy\u003c/title\u003e\r\n\u003c/head\u003e\r\n\u003cbody leftmargin=\"0\" marginwidth=\"0\" topmargin=\"0\" marginheight=\"0\" offset=\"0\"\u003e\r\n\t\t\u003cdiv id=\"wrapper\" dir=\"ltr\" style=\"background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;\"\u003e\r\n\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"100%\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\u003cdiv id=\"template_header_image\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/div\u003e\r\n\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_container\" style=\"box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #ffffff; border: 1px solid #dedede; border-radius: 3px !important;\"\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Header --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_header\" style='background-color: #96588a; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif;'\u003e\u003ctr\u003e\r\n\u003ctd id=\"header_wrapper\" style=\"padding: 36px 48px; display: block;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ch1 style='color: #ffffff; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #ab79a1; -webkit-font-smoothing: antialiased;'\u003eThank you for your order\u003c/h1\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Header --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Body --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_body\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" id=\"body_content\" style=\"background-color: #ffffff;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003c!-- Content --\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"20\" cellspacing=\"0\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" style=\"padding: 48px 48px 0;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cdiv id=\"body_content_inner\" style='color: #636363; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'\u003e\r\n\r\n\u003cp style=\"margin: 0 0 16px;\"\u003eYour order is on-hold until we confirm payment has been received.\r\nYour order details are shown below for your reference:\u003c/p\u003e\r\n\r\n\r\n\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003eOrder #89 (\u003ctime datetime=\"2018-01-18T15:18:12+00:00\"\u003eJanuary 18,\r\n2018\u003c/time\u003e)\u003c/h2\u003e\r\n\r\n\u003cdiv style=\"margin-bottom: 40px;\"\u003e\r\n\t\u003ctable class=\"td\" cellspacing=\"0\" cellpadding=\"6\" style=\"width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; color: #636363; border: 1px solid #e5e5e5;\" border=\"1\"\u003e\r\n\u003cthead\u003e\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eProduct\u003c/th\u003e\r\n\t\t\t\t\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eQuantity\u003c/th\u003e\r\n\t\t\t\t\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003ePrice\u003c/th\u003e\r\n\t\t\t\u003c/tr\u003e\u003c/thead\u003e\r\n\u003ctbody\u003e\r\n\u003ctr class=\"order_item\"\u003e\r\n\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;\"\u003eEntires Your\r\nDamn\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e1\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount\r\namount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e11,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\u003c/tr\u003e\r\n\u003ctr class=\"order_item\"\u003e\r\n\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;\"\u003eEntires Your\r\nSoul\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e1\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount\r\namount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e11,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\u003c/tr\u003e\r\n\u003ctr class=\"order_item\"\u003e\r\n\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;\"\u003eAnother Produto\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e1\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount\r\namount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e11,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\u003c/tr\u003e\r\n\u003c/tbody\u003e\r\n\u003ctfoot\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eSubtotal:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e33,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eShipping:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\r\n\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e12,00\u003c/span\u003e \u003csmall class=\"shipped_via\"\u003evia Flat rate\u003c/small\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003ePayment method:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eCheck payments\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eTotal:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e45,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003c/tfoot\u003e\r\n\u003c/table\u003e\r\n\u003c/div\u003e\r\n\r\n\u003ctable id=\"addresses\" cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; vertical-align: top; margin-bottom: 40px; padding: 0;\" border=\"0\"\u003e\u003ctr\u003e\r\n\u003ctd style=\"text-align: left; border: 0; padding: 0;\" valign=\"top\" width=\"50%\"\u003e\r\n\t\t\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003eBilling address\u003c/h2\u003e\r\n\r\n\t\t\t\u003caddress class=\"address\" style=\"padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;\"\u003e\r\n\t\t\t\tYuri Caetano\u003cbr\u003eQC 01 Conjunto D 04 Loja\r\n03\u003cbr\u003e04\u003cbr\u003eBrasília\u003cbr\u003eDistrito\r\nFederal\u003cbr\u003e72535-040\t\t\t\t\t\t\t\t\t\u003cbr\u003e61991829742\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cp style=\"margin: 0 0 16px;\"\u003eyuri.alexs@gmail.com\u003c/p\u003e\r\n\t\t\t\t\t\t\t\u003c/address\u003e\r\n\t\t\u003c/td\u003e\r\n\t\t\t\t\t\u003ctd style=\"text-align: left; padding: 0;\" valign=\"top\" width=\"50%\"\u003e\r\n\t\t\t\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003eShipping address\u003c/h2\u003e\r\n\r\n\t\t\t\t\u003caddress class=\"address\" style=\"padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;\"\u003eYuri Caetano\u003cbr\u003eQC 01 Conjunto D 04 Loja\r\n03\u003cbr\u003e04\u003cbr\u003eBrasília\u003cbr\u003eDistrito Federal\u003cbr\u003e72535040\u003c/address\u003e\r\n\t\t\t\u003c/td\u003e\r\n\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/div\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Content --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Body --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Footer --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"10\" cellspacing=\"0\" width=\"600\" id=\"template_footer\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" style=\"padding: 0; -webkit-border-radius: 6px;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"10\" cellspacing=\"0\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd colspan=\"2\" valign=\"middle\" id=\"credit\" style=\"padding: 0 48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #c09bb9; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cp\u003eTentação Sexy\u003c/p\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Footer --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003c/table\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/div\u003e\r\n\t\u003c/body\u003e\r\n\u003c/html\u003e\r\n",
+    "Helo": "localhost"
+  }
+}
+
+[APIv1] BROADCAST /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+Got message in APIv2 websocket channel
+[APIv2] BROADCAST /api/v2/websocket
+Got message in APIv1 event stream
+Sending content: {
+  "ID": "QOsYl0TLpyRI_9lw8QWpdD2WRBVdd5jHjPN3fh1lqhs=@mailhog.example",
+  "From": {
+    "Relays": null,
+    "Mailbox": "www-data",
+    "Domain": "354d0e02365c",
+    "Params": ""
+  },
+  "To": [
+    {
+      "Relays": null,
+      "Mailbox": "mailhog",
+      "Domain": "flywheel.local",
+      "Params": ""
+    }
+  ],
+  "Content": {
+    "Headers": {
+      "Content-Transfer-Encoding": [
+        "8bit"
+      ],
+      "Content-Type": [
+        "text/html; charset=UTF-8"
+      ],
+      "Date": [
+        "Thu, 18 Jan 2018 15:20:56 +0000"
+      ],
+      "From": [
+        "=?UTF-8?Q?Tenta=C3=A7=C3=A3o_Sexy?= \u003cyuri.alexs.dev@gmail.com\u003e"
+      ],
+      "MIME-Version": [
+        "1.0"
+      ],
+      "Message-ID": [
+        "\u003c667144ac3c978082c4173b4fb5eb8529@tentacaosexy.wp\u003e"
+      ],
+      "Received": [
+        "from localhost by mailhog.example (MailHog)\r\n          id QOsYl0TLpyRI_9lw8QWpdD2WRBVdd5jHjPN3fh1lqhs=@mailhog.example; Thu, 18 Jan 2018 15:20:56 +0000"
+      ],
+      "Return-Path": [
+        "\u003cwww-data@354d0e02365c\u003e"
+      ],
+      "Subject": [
+        "=?UTF-8?Q?Your_account_on_Tenta=C3=A7=C3=A3o_Sexy?="
+      ],
+      "To": [
+        "yuri.alexs@gmail.com"
+      ],
+      "X-Mailer": [
+        "PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)"
+      ],
+      "X-PHP-Originating-Script": [
+        "1000:class-phpmailer.php"
+      ]
+    },
+    "Body": "\u003c!DOCTYPE html\u003e\r\n\u003chtml lang=\"en-US\"\u003e\r\n\u003chead\u003e\r\n\u003cmeta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"\u003e\r\n\u003ctitle\u003eTentação Sexy\u003c/title\u003e\r\n\u003c/head\u003e\r\n\u003cbody leftmargin=\"0\" marginwidth=\"0\" topmargin=\"0\" marginheight=\"0\" offset=\"0\"\u003e\r\n\t\t\u003cdiv id=\"wrapper\" dir=\"ltr\" style=\"background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;\"\u003e\r\n\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"100%\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\u003cdiv id=\"template_header_image\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/div\u003e\r\n\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_container\" style=\"box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #ffffff; border: 1px solid #dedede; border-radius: 3px !important;\"\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Header --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_header\" style='background-color: #96588a; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif;'\u003e\u003ctr\u003e\r\n\u003ctd id=\"header_wrapper\" style=\"padding: 36px 48px; display: block;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ch1 style='color: #ffffff; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #ab79a1; -webkit-font-smoothing: antialiased;'\u003eWelcome to Tentação Sexy\u003c/h1\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Header --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Body --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_body\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" id=\"body_content\" style=\"background-color: #ffffff;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003c!-- Content --\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"20\" cellspacing=\"0\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" style=\"padding: 48px 48px 0;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cdiv id=\"body_content_inner\" style='color: #636363; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'\u003e\r\n\r\n\t\u003cp style=\"margin: 0 0 16px;\"\u003eThanks for creating an account on Tentação Sexy. Your username\r\nis \u003cstrong\u003eyuri.alexs\u003c/strong\u003e\u003c/p\u003e\r\n\r\n\r\n\t\u003cp style=\"margin: 0 0 16px;\"\u003eYou can access your account area to view your orders and change\r\nyour password here: \u003ca href=\"http://tentacaosexy.wp/my-account/\" rel=\"nofollow\" style=\"color: #96588a; font-weight: normal; text-decoration: underline;\"\u003ehttp://tentacaosexy.wp/my-account/\u003c/a\u003e.\u003c/p\u003e\r\n\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/div\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Content --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Body --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Footer --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"10\" cellspacing=\"0\" width=\"600\" id=\"template_footer\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" style=\"padding: 0; -webkit-border-radius: 6px;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"10\" cellspacing=\"0\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd colspan=\"2\" valign=\"middle\" id=\"credit\" style=\"padding: 0 48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #c09bb9; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cp\u003eTentação Sexy\u003c/p\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Footer --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003c/table\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/div\u003e\r\n\t\u003c/body\u003e\r\n\u003c/html\u003e\r\n",
+    "Size": 4075,
+    "MIME": null
+  },
+  "Created": "2018-01-18T15:20:56.315549156Z",
+  "MIME": null,
+  "Raw": {
+    "From": "www-data@354d0e02365c",
+    "To": [
+      "mailhog@flywheel.local"
+    ],
+    "Data": "To: yuri.alexs@gmail.com\r\nSubject: =?UTF-8?Q?Your_account_on_Tenta=C3=A7=C3=A3o_Sexy?=\r\nX-PHP-Originating-Script: 1000:class-phpmailer.php\r\nDate: Thu, 18 Jan 2018 15:20:56 +0000\r\nFrom: =?UTF-8?Q?Tenta=C3=A7=C3=A3o_Sexy?= \u003cyuri.alexs.dev@gmail.com\u003e\r\nMessage-ID: \u003c667144ac3c978082c4173b4fb5eb8529@tentacaosexy.wp\u003e\r\nX-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)\r\nMIME-Version: 1.0\r\nContent-Type: text/html; charset=UTF-8\r\nContent-Transfer-Encoding: 8bit\r\n\r\n\u003c!DOCTYPE html\u003e\r\n\u003chtml lang=\"en-US\"\u003e\r\n\u003chead\u003e\r\n\u003cmeta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"\u003e\r\n\u003ctitle\u003eTentação Sexy\u003c/title\u003e\r\n\u003c/head\u003e\r\n\u003cbody leftmargin=\"0\" marginwidth=\"0\" topmargin=\"0\" marginheight=\"0\" offset=\"0\"\u003e\r\n\t\t\u003cdiv id=\"wrapper\" dir=\"ltr\" style=\"background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;\"\u003e\r\n\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"100%\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\u003cdiv id=\"template_header_image\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/div\u003e\r\n\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_container\" style=\"box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #ffffff; border: 1px solid #dedede; border-radius: 3px !important;\"\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Header --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_header\" style='background-color: #96588a; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif;'\u003e\u003ctr\u003e\r\n\u003ctd id=\"header_wrapper\" style=\"padding: 36px 48px; display: block;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ch1 style='color: #ffffff; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #ab79a1; -webkit-font-smoothing: antialiased;'\u003eWelcome to Tentação Sexy\u003c/h1\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Header --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Body --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_body\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" id=\"body_content\" style=\"background-color: #ffffff;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003c!-- Content --\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"20\" cellspacing=\"0\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" style=\"padding: 48px 48px 0;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cdiv id=\"body_content_inner\" style='color: #636363; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'\u003e\r\n\r\n\t\u003cp style=\"margin: 0 0 16px;\"\u003eThanks for creating an account on Tentação Sexy. Your username\r\nis \u003cstrong\u003eyuri.alexs\u003c/strong\u003e\u003c/p\u003e\r\n\r\n\r\n\t\u003cp style=\"margin: 0 0 16px;\"\u003eYou can access your account area to view your orders and change\r\nyour password here: \u003ca href=\"http://tentacaosexy.wp/my-account/\" rel=\"nofollow\" style=\"color: #96588a; font-weight: normal; text-decoration: underline;\"\u003ehttp://tentacaosexy.wp/my-account/\u003c/a\u003e.\u003c/p\u003e\r\n\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/div\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Content --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Body --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Footer --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"10\" cellspacing=\"0\" width=\"600\" id=\"template_footer\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" style=\"padding: 0; -webkit-border-radius: 6px;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"10\" cellspacing=\"0\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd colspan=\"2\" valign=\"middle\" id=\"credit\" style=\"padding: 0 48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #c09bb9; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cp\u003eTentação Sexy\u003c/p\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Footer --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003c/table\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/div\u003e\r\n\t\u003c/body\u003e\r\n\u003c/html\u003e\r\n",
+    "Helo": "localhost"
+  }
+}
+
+[APIv1] BROADCAST /api/v1/events
+Got message in APIv2 websocket channel
+[APIv2] BROADCAST /api/v2/websocket
+Got message in APIv1 event stream
+Sending content: {
+  "ID": "QlsF-Ni279PdgBuAnEdAZd8LhrsLc1dr9x9fJSA12UU=@mailhog.example",
+  "From": {
+    "Relays": null,
+    "Mailbox": "www-data",
+    "Domain": "354d0e02365c",
+    "Params": ""
+  },
+  "To": [
+    {
+      "Relays": null,
+      "Mailbox": "mailhog",
+      "Domain": "flywheel.local",
+      "Params": ""
+    }
+  ],
+  "Content": {
+    "Headers": {
+      "Content-Transfer-Encoding": [
+        "8bit"
+      ],
+      "Content-Type": [
+        "text/html; charset=UTF-8"
+      ],
+      "Date": [
+        "Thu, 18 Jan 2018 15:20:56 +0000"
+      ],
+      "From": [
+        "=?UTF-8?Q?Tenta=C3=A7=C3=A3o_Sexy?= \u003cyuri.alexs.dev@gmail.com\u003e"
+      ],
+      "MIME-Version": [
+        "1.0"
+      ],
+      "Message-ID": [
+        "\u003c8e79612c1d57f2ccf5cbb31b20b93f3a@tentacaosexy.wp\u003e"
+      ],
+      "Received": [
+        "from localhost by mailhog.example (MailHog)\r\n          id QlsF-Ni279PdgBuAnEdAZd8LhrsLc1dr9x9fJSA12UU=@mailhog.example; Thu, 18 Jan 2018 15:20:56 +0000"
+      ],
+      "Reply-To": [
+        "Yuri Caetano \u003cyuri.alexs@gmail.com\u003e"
+      ],
+      "Return-Path": [
+        "\u003cwww-data@354d0e02365c\u003e"
+      ],
+      "Subject": [
+        "=?UTF-8?Q?[Tenta=C3=A7=C3=A3o_Sexy]_New_customer_order_(90)_-_January_18,?=  =?UTF-8?Q?_2018?="
+      ],
+      "To": [
+        "yuri.alexs.dev@gmail.com"
+      ],
+      "X-Mailer": [
+        "PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)"
+      ],
+      "X-PHP-Originating-Script": [
+        "1000:class-phpmailer.php"
+      ]
+    },
+    "Body": "\u003c!DOCTYPE html\u003e\r\n\u003chtml lang=\"en-US\"\u003e\r\n\u003chead\u003e\r\n\u003cmeta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"\u003e\r\n\u003ctitle\u003eTentação Sexy\u003c/title\u003e\r\n\u003c/head\u003e\r\n\u003cbody leftmargin=\"0\" marginwidth=\"0\" topmargin=\"0\" marginheight=\"0\" offset=\"0\"\u003e\r\n\t\t\u003cdiv id=\"wrapper\" dir=\"ltr\" style=\"background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;\"\u003e\r\n\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"100%\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\u003cdiv id=\"template_header_image\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/div\u003e\r\n\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_container\" style=\"box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #ffffff; border: 1px solid #dedede; border-radius: 3px !important;\"\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Header --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_header\" style='background-color: #96588a; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif;'\u003e\u003ctr\u003e\r\n\u003ctd id=\"header_wrapper\" style=\"padding: 36px 48px; display: block;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ch1 style='color: #ffffff; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #ab79a1; -webkit-font-smoothing: antialiased;'\u003eNew customer order\u003c/h1\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Header --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Body --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_body\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" id=\"body_content\" style=\"background-color: #ffffff;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003c!-- Content --\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"20\" cellspacing=\"0\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" style=\"padding: 48px 48px 0;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cdiv id=\"body_content_inner\" style='color: #636363; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'\u003e\r\n\r\n \u003cp style=\"margin: 0 0 16px;\"\u003eYou have received an order from Yuri Caetano. The order is as\r\nfollows:\u003c/p\u003e\r\n\r\n \r\n\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003e\r\n\u003ca class=\"link\" href=\"http://tentacaosexy.wp/wp-admin/post.php?post=90\u0026amp;action=edit\" style=\"color: #96588a; font-weight: normal; text-decoration: underline;\"\u003eOrder\r\n#90\u003c/a\u003e (\u003ctime datetime=\"2018-01-18T15:20:56+00:00\"\u003eJanuary 18,\r\n2018\u003c/time\u003e)\u003c/h2\u003e\r\n\r\n\u003cdiv style=\"margin-bottom: 40px;\"\u003e\r\n\t\u003ctable class=\"td\" cellspacing=\"0\" cellpadding=\"6\" style=\"width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; color: #636363; border: 1px solid #e5e5e5;\" border=\"1\"\u003e\r\n\u003cthead\u003e\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eProduct\u003c/th\u003e\r\n\t\t\t\t\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eQuantity\u003c/th\u003e\r\n\t\t\t\t\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003ePrice\u003c/th\u003e\r\n\t\t\t\u003c/tr\u003e\u003c/thead\u003e\r\n\u003ctbody\u003e\r\n\u003ctr class=\"order_item\"\u003e\r\n\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;\"\u003eAnother Produto\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e1\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount\r\namount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e11,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\u003c/tr\u003e\r\n\u003ctr class=\"order_item\"\u003e\r\n\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;\"\u003eEntires Your\r\nSoul\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e1\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount\r\namount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e11,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\u003c/tr\u003e\r\n\u003c/tbody\u003e\r\n\u003ctfoot\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eSubtotal:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e22,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eShipping:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\r\n\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e12,00\u003c/span\u003e \u003csmall class=\"shipped_via\"\u003evia Flat rate\u003c/small\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003ePayment method:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eCash on delivery\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eTotal:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e34,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003c/tfoot\u003e\r\n\u003c/table\u003e\r\n\u003c/div\u003e\r\n\r\n\u003ctable id=\"addresses\" cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; vertical-align: top; margin-bottom: 40px; padding: 0;\" border=\"0\"\u003e\u003ctr\u003e\r\n\u003ctd style=\"text-align: left; border: 0; padding: 0;\" valign=\"top\" width=\"50%\"\u003e\r\n\t\t\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003eBilling address\u003c/h2\u003e\r\n\r\n\t\t\t\u003caddress class=\"address\" style=\"padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;\"\u003e\r\n\t\t\t\tYuri Caetano\u003cbr\u003eQC 01 Conjunto D Numero 04\u003cbr\u003eloja 03\u003cbr\u003esanta\r\nmaria\u003cbr\u003eDistrito\r\nFederal\u003cbr\u003e72535-040\t\t\t\t\t\t\t\t\t\u003cbr\u003e61991829742\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cp style=\"margin: 0 0 16px;\"\u003eyuri.alexs@gmail.com\u003c/p\u003e\r\n\t\t\t\t\t\t\t\u003c/address\u003e\r\n\t\t\u003c/td\u003e\r\n\t\t\t\t\t\u003ctd style=\"text-align: left; padding: 0;\" valign=\"top\" width=\"50%\"\u003e\r\n\t\t\t\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003eShipping address\u003c/h2\u003e\r\n\r\n\t\t\t\t\u003caddress class=\"address\" style=\"padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;\"\u003eYuri Caetano\u003cbr\u003eQC 01 Conjunto D Numero\r\n04\u003cbr\u003eloja 03\u003cbr\u003esanta maria\u003cbr\u003eDistrito\r\nFederal\u003cbr\u003e72535040\u003c/address\u003e\r\n\t\t\t\u003c/td\u003e\r\n\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/div\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Content --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Body --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Footer --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"10\" cellspacing=\"0\" width=\"600\" id=\"template_footer\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" style=\"padding: 0; -webkit-border-radius: 6px;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"10\" cellspacing=\"0\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd colspan=\"2\" valign=\"middle\" id=\"credit\" style=\"padding: 0 48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #c09bb9; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cp\u003eTentação Sexy\u003c/p\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Footer --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003c/table\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/div\u003e\r\n\t\u003c/body\u003e\r\n\u003c/html\u003e\r\n",
+    "Size": 9028,
+    "MIME": null
+  },
+  "Created": "2018-01-18T15:20:56.869077153Z",
+  "MIME": null,
+  "Raw": {
+    "From": "www-data@354d0e02365c",
+    "To": [
+      "mailhog@flywheel.local"
+    ],
+    "Data": "To: yuri.alexs.dev@gmail.com\r\nSubject: =?UTF-8?Q?[Tenta=C3=A7=C3=A3o_Sexy]_New_customer_order_(90)_-_January_18,?=  =?UTF-8?Q?_2018?=\r\nX-PHP-Originating-Script: 1000:class-phpmailer.php\r\nDate: Thu, 18 Jan 2018 15:20:56 +0000\r\nFrom: =?UTF-8?Q?Tenta=C3=A7=C3=A3o_Sexy?= \u003cyuri.alexs.dev@gmail.com\u003e\r\nReply-To: Yuri Caetano \u003cyuri.alexs@gmail.com\u003e\r\nMessage-ID: \u003c8e79612c1d57f2ccf5cbb31b20b93f3a@tentacaosexy.wp\u003e\r\nX-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)\r\nMIME-Version: 1.0\r\nContent-Type: text/html; charset=UTF-8\r\nContent-Transfer-Encoding: 8bit\r\n\r\n\u003c!DOCTYPE html\u003e\r\n\u003chtml lang=\"en-US\"\u003e\r\n\u003chead\u003e\r\n\u003cmeta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"\u003e\r\n\u003ctitle\u003eTentação Sexy\u003c/title\u003e\r\n\u003c/head\u003e\r\n\u003cbody leftmargin=\"0\" marginwidth=\"0\" topmargin=\"0\" marginheight=\"0\" offset=\"0\"\u003e\r\n\t\t\u003cdiv id=\"wrapper\" dir=\"ltr\" style=\"background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;\"\u003e\r\n\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"100%\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\u003cdiv id=\"template_header_image\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/div\u003e\r\n\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_container\" style=\"box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #ffffff; border: 1px solid #dedede; border-radius: 3px !important;\"\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Header --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_header\" style='background-color: #96588a; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif;'\u003e\u003ctr\u003e\r\n\u003ctd id=\"header_wrapper\" style=\"padding: 36px 48px; display: block;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ch1 style='color: #ffffff; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #ab79a1; -webkit-font-smoothing: antialiased;'\u003eNew customer order\u003c/h1\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Header --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Body --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_body\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" id=\"body_content\" style=\"background-color: #ffffff;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003c!-- Content --\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"20\" cellspacing=\"0\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" style=\"padding: 48px 48px 0;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cdiv id=\"body_content_inner\" style='color: #636363; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'\u003e\r\n\r\n \u003cp style=\"margin: 0 0 16px;\"\u003eYou have received an order from Yuri Caetano. The order is as\r\nfollows:\u003c/p\u003e\r\n\r\n \r\n\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003e\r\n\u003ca class=\"link\" href=\"http://tentacaosexy.wp/wp-admin/post.php?post=90\u0026amp;action=edit\" style=\"color: #96588a; font-weight: normal; text-decoration: underline;\"\u003eOrder\r\n#90\u003c/a\u003e (\u003ctime datetime=\"2018-01-18T15:20:56+00:00\"\u003eJanuary 18,\r\n2018\u003c/time\u003e)\u003c/h2\u003e\r\n\r\n\u003cdiv style=\"margin-bottom: 40px;\"\u003e\r\n\t\u003ctable class=\"td\" cellspacing=\"0\" cellpadding=\"6\" style=\"width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; color: #636363; border: 1px solid #e5e5e5;\" border=\"1\"\u003e\r\n\u003cthead\u003e\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eProduct\u003c/th\u003e\r\n\t\t\t\t\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eQuantity\u003c/th\u003e\r\n\t\t\t\t\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003ePrice\u003c/th\u003e\r\n\t\t\t\u003c/tr\u003e\u003c/thead\u003e\r\n\u003ctbody\u003e\r\n\u003ctr class=\"order_item\"\u003e\r\n\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;\"\u003eAnother Produto\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e1\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount\r\namount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e11,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\u003c/tr\u003e\r\n\u003ctr class=\"order_item\"\u003e\r\n\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;\"\u003eEntires Your\r\nSoul\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e1\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount\r\namount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e11,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\u003c/tr\u003e\r\n\u003c/tbody\u003e\r\n\u003ctfoot\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eSubtotal:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e22,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eShipping:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\r\n\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e12,00\u003c/span\u003e \u003csmall class=\"shipped_via\"\u003evia Flat rate\u003c/small\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003ePayment method:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eCash on delivery\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eTotal:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e34,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003c/tfoot\u003e\r\n\u003c/table\u003e\r\n\u003c/div\u003e\r\n\r\n\u003ctable id=\"addresses\" cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; vertical-align: top; margin-bottom: 40px; padding: 0;\" border=\"0\"\u003e\u003ctr\u003e\r\n\u003ctd style=\"text-align: left; border: 0; padding: 0;\" valign=\"top\" width=\"50%\"\u003e\r\n\t\t\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003eBilling address\u003c/h2\u003e\r\n\r\n\t\t\t\u003caddress class=\"address\" style=\"padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;\"\u003e\r\n\t\t\t\tYuri Caetano\u003cbr\u003eQC 01 Conjunto D Numero 04\u003cbr\u003eloja 03\u003cbr\u003esanta\r\nmaria\u003cbr\u003eDistrito\r\nFederal\u003cbr\u003e72535-040\t\t\t\t\t\t\t\t\t\u003cbr\u003e61991829742\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cp style=\"margin: 0 0 16px;\"\u003eyuri.alexs@gmail.com\u003c/p\u003e\r\n\t\t\t\t\t\t\t\u003c/address\u003e\r\n\t\t\u003c/td\u003e\r\n\t\t\t\t\t\u003ctd style=\"text-align: left; padding: 0;\" valign=\"top\" width=\"50%\"\u003e\r\n\t\t\t\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003eShipping address\u003c/h2\u003e\r\n\r\n\t\t\t\t\u003caddress class=\"address\" style=\"padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;\"\u003eYuri Caetano\u003cbr\u003eQC 01 Conjunto D Numero\r\n04\u003cbr\u003eloja 03\u003cbr\u003esanta maria\u003cbr\u003eDistrito\r\nFederal\u003cbr\u003e72535040\u003c/address\u003e\r\n\t\t\t\u003c/td\u003e\r\n\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/div\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Content --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Body --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Footer --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"10\" cellspacing=\"0\" width=\"600\" id=\"template_footer\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" style=\"padding: 0; -webkit-border-radius: 6px;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"10\" cellspacing=\"0\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd colspan=\"2\" valign=\"middle\" id=\"credit\" style=\"padding: 0 48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #c09bb9; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cp\u003eTentação Sexy\u003c/p\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Footer --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003c/table\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/div\u003e\r\n\t\u003c/body\u003e\r\n\u003c/html\u003e\r\n",
+    "Helo": "localhost"
+  }
+}
+
+[APIv1] BROADCAST /api/v1/events
+Got message in APIv2 websocket channel
+[APIv2] BROADCAST /api/v2/websocket
+Got message in APIv1 event stream
+Sending content: {
+  "ID": "wdDk9S6c8HzEFPghZUoc95jM7MCW8F7UWFKEaXBbhGg=@mailhog.example",
+  "From": {
+    "Relays": null,
+    "Mailbox": "www-data",
+    "Domain": "354d0e02365c",
+    "Params": ""
+  },
+  "To": [
+    {
+      "Relays": null,
+      "Mailbox": "mailhog",
+      "Domain": "flywheel.local",
+      "Params": ""
+    }
+  ],
+  "Content": {
+    "Headers": {
+      "Content-Transfer-Encoding": [
+        "8bit"
+      ],
+      "Content-Type": [
+        "text/html; charset=UTF-8"
+      ],
+      "Date": [
+        "Thu, 18 Jan 2018 15:20:56 +0000"
+      ],
+      "From": [
+        "=?UTF-8?Q?Tenta=C3=A7=C3=A3o_Sexy?= \u003cyuri.alexs.dev@gmail.com\u003e"
+      ],
+      "MIME-Version": [
+        "1.0"
+      ],
+      "Message-ID": [
+        "\u003c93922adc8afece185f859a276a62e22b@tentacaosexy.wp\u003e"
+      ],
+      "Received": [
+        "from localhost by mailhog.example (MailHog)\r\n          id wdDk9S6c8HzEFPghZUoc95jM7MCW8F7UWFKEaXBbhGg=@mailhog.example; Thu, 18 Jan 2018 15:20:57 +0000"
+      ],
+      "Return-Path": [
+        "\u003cwww-data@354d0e02365c\u003e"
+      ],
+      "Subject": [
+        "=?UTF-8?Q?Your_Tenta=C3=A7=C3=A3o_Sexy_order_receipt_from_January_18,_201?=  =?UTF-8?Q?8?="
+      ],
+      "To": [
+        "yuri.alexs@gmail.com"
+      ],
+      "X-Mailer": [
+        "PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)"
+      ],
+      "X-PHP-Originating-Script": [
+        "1000:class-phpmailer.php"
+      ]
+    },
+    "Body": "\u003c!DOCTYPE html\u003e\r\n\u003chtml lang=\"en-US\"\u003e\r\n\u003chead\u003e\r\n\u003cmeta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"\u003e\r\n\u003ctitle\u003eTentação Sexy\u003c/title\u003e\r\n\u003c/head\u003e\r\n\u003cbody leftmargin=\"0\" marginwidth=\"0\" topmargin=\"0\" marginheight=\"0\" offset=\"0\"\u003e\r\n\t\t\u003cdiv id=\"wrapper\" dir=\"ltr\" style=\"background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;\"\u003e\r\n\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"100%\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\u003cdiv id=\"template_header_image\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/div\u003e\r\n\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_container\" style=\"box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #ffffff; border: 1px solid #dedede; border-radius: 3px !important;\"\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Header --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_header\" style='background-color: #96588a; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif;'\u003e\u003ctr\u003e\r\n\u003ctd id=\"header_wrapper\" style=\"padding: 36px 48px; display: block;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ch1 style='color: #ffffff; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #ab79a1; -webkit-font-smoothing: antialiased;'\u003eThank you for your order\u003c/h1\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Header --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Body --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_body\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" id=\"body_content\" style=\"background-color: #ffffff;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003c!-- Content --\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"20\" cellspacing=\"0\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" style=\"padding: 48px 48px 0;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cdiv id=\"body_content_inner\" style='color: #636363; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'\u003e\r\n\r\n\u003cp style=\"margin: 0 0 16px;\"\u003eYour order has been received and is now being processed. Your order\r\ndetails are shown below for your reference:\u003c/p\u003e\r\n\r\n\u003cp style=\"margin: 0 0 16px;\"\u003ePay with cash upon delivery.\u003c/p\u003e\r\n\r\n\r\n\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003eOrder #90 (\u003ctime datetime=\"2018-01-18T15:20:56+00:00\"\u003eJanuary 18,\r\n2018\u003c/time\u003e)\u003c/h2\u003e\r\n\r\n\u003cdiv style=\"margin-bottom: 40px;\"\u003e\r\n\t\u003ctable class=\"td\" cellspacing=\"0\" cellpadding=\"6\" style=\"width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; color: #636363; border: 1px solid #e5e5e5;\" border=\"1\"\u003e\r\n\u003cthead\u003e\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eProduct\u003c/th\u003e\r\n\t\t\t\t\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eQuantity\u003c/th\u003e\r\n\t\t\t\t\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003ePrice\u003c/th\u003e\r\n\t\t\t\u003c/tr\u003e\u003c/thead\u003e\r\n\u003ctbody\u003e\r\n\u003ctr class=\"order_item\"\u003e\r\n\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;\"\u003eAnother Produto\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e1\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount\r\namount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e11,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\u003c/tr\u003e\r\n\u003ctr class=\"order_item\"\u003e\r\n\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;\"\u003eEntires Your\r\nSoul\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e1\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount\r\namount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e11,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\u003c/tr\u003e\r\n\u003c/tbody\u003e\r\n\u003ctfoot\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eSubtotal:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e22,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eShipping:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\r\n\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e12,00\u003c/span\u003e \u003csmall class=\"shipped_via\"\u003evia Flat rate\u003c/small\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003ePayment method:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eCash on delivery\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eTotal:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e34,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003c/tfoot\u003e\r\n\u003c/table\u003e\r\n\u003c/div\u003e\r\n\r\n\u003ctable id=\"addresses\" cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; vertical-align: top; margin-bottom: 40px; padding: 0;\" border=\"0\"\u003e\u003ctr\u003e\r\n\u003ctd style=\"text-align: left; border: 0; padding: 0;\" valign=\"top\" width=\"50%\"\u003e\r\n\t\t\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003eBilling address\u003c/h2\u003e\r\n\r\n\t\t\t\u003caddress class=\"address\" style=\"padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;\"\u003e\r\n\t\t\t\tYuri Caetano\u003cbr\u003eQC 01 Conjunto D Numero 04\u003cbr\u003eloja 03\u003cbr\u003esanta\r\nmaria\u003cbr\u003eDistrito\r\nFederal\u003cbr\u003e72535-040\t\t\t\t\t\t\t\t\t\u003cbr\u003e61991829742\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cp style=\"margin: 0 0 16px;\"\u003eyuri.alexs@gmail.com\u003c/p\u003e\r\n\t\t\t\t\t\t\t\u003c/address\u003e\r\n\t\t\u003c/td\u003e\r\n\t\t\t\t\t\u003ctd style=\"text-align: left; padding: 0;\" valign=\"top\" width=\"50%\"\u003e\r\n\t\t\t\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003eShipping address\u003c/h2\u003e\r\n\r\n\t\t\t\t\u003caddress class=\"address\" style=\"padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;\"\u003eYuri Caetano\u003cbr\u003eQC 01 Conjunto D Numero\r\n04\u003cbr\u003eloja 03\u003cbr\u003esanta maria\u003cbr\u003eDistrito\r\nFederal\u003cbr\u003e72535040\u003c/address\u003e\r\n\t\t\t\u003c/td\u003e\r\n\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/div\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Content --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Body --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Footer --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"10\" cellspacing=\"0\" width=\"600\" id=\"template_footer\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" style=\"padding: 0; -webkit-border-radius: 6px;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"10\" cellspacing=\"0\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd colspan=\"2\" valign=\"middle\" id=\"credit\" style=\"padding: 0 48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #c09bb9; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cp\u003eTentação Sexy\u003c/p\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Footer --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003c/table\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/div\u003e\r\n\t\u003c/body\u003e\r\n\u003c/html\u003e\r\n",
+    "Size": 8915,
+    "MIME": null
+  },
+  "Created": "2018-01-18T15:20:57.081322049Z",
+  "MIME": null,
+  "Raw": {
+    "From": "www-data@354d0e02365c",
+    "To": [
+      "mailhog@flywheel.local"
+    ],
+    "Data": "To: yuri.alexs@gmail.com\r\nSubject: =?UTF-8?Q?Your_Tenta=C3=A7=C3=A3o_Sexy_order_receipt_from_January_18,_201?=  =?UTF-8?Q?8?=\r\nX-PHP-Originating-Script: 1000:class-phpmailer.php\r\nDate: Thu, 18 Jan 2018 15:20:56 +0000\r\nFrom: =?UTF-8?Q?Tenta=C3=A7=C3=A3o_Sexy?= \u003cyuri.alexs.dev@gmail.com\u003e\r\nMessage-ID: \u003c93922adc8afece185f859a276a62e22b@tentacaosexy.wp\u003e\r\nX-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)\r\nMIME-Version: 1.0\r\nContent-Type: text/html; charset=UTF-8\r\nContent-Transfer-Encoding: 8bit\r\n\r\n\u003c!DOCTYPE html\u003e\r\n\u003chtml lang=\"en-US\"\u003e\r\n\u003chead\u003e\r\n\u003cmeta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"\u003e\r\n\u003ctitle\u003eTentação Sexy\u003c/title\u003e\r\n\u003c/head\u003e\r\n\u003cbody leftmargin=\"0\" marginwidth=\"0\" topmargin=\"0\" marginheight=\"0\" offset=\"0\"\u003e\r\n\t\t\u003cdiv id=\"wrapper\" dir=\"ltr\" style=\"background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;\"\u003e\r\n\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"100%\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\u003cdiv id=\"template_header_image\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/div\u003e\r\n\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_container\" style=\"box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #ffffff; border: 1px solid #dedede; border-radius: 3px !important;\"\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Header --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_header\" style='background-color: #96588a; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif;'\u003e\u003ctr\u003e\r\n\u003ctd id=\"header_wrapper\" style=\"padding: 36px 48px; display: block;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ch1 style='color: #ffffff; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #ab79a1; -webkit-font-smoothing: antialiased;'\u003eThank you for your order\u003c/h1\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Header --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Body --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\" id=\"template_body\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" id=\"body_content\" style=\"background-color: #ffffff;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003c!-- Content --\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"20\" cellspacing=\"0\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" style=\"padding: 48px 48px 0;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cdiv id=\"body_content_inner\" style='color: #636363; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'\u003e\r\n\r\n\u003cp style=\"margin: 0 0 16px;\"\u003eYour order has been received and is now being processed. Your order\r\ndetails are shown below for your reference:\u003c/p\u003e\r\n\r\n\u003cp style=\"margin: 0 0 16px;\"\u003ePay with cash upon delivery.\u003c/p\u003e\r\n\r\n\r\n\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003eOrder #90 (\u003ctime datetime=\"2018-01-18T15:20:56+00:00\"\u003eJanuary 18,\r\n2018\u003c/time\u003e)\u003c/h2\u003e\r\n\r\n\u003cdiv style=\"margin-bottom: 40px;\"\u003e\r\n\t\u003ctable class=\"td\" cellspacing=\"0\" cellpadding=\"6\" style=\"width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; color: #636363; border: 1px solid #e5e5e5;\" border=\"1\"\u003e\r\n\u003cthead\u003e\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eProduct\u003c/th\u003e\r\n\t\t\t\t\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eQuantity\u003c/th\u003e\r\n\t\t\t\t\u003cth class=\"td\" scope=\"col\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003ePrice\u003c/th\u003e\r\n\t\t\t\u003c/tr\u003e\u003c/thead\u003e\r\n\u003ctbody\u003e\r\n\u003ctr class=\"order_item\"\u003e\r\n\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;\"\u003eAnother Produto\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e1\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount\r\namount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e11,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\u003c/tr\u003e\r\n\u003ctr class=\"order_item\"\u003e\r\n\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;\"\u003eEntires Your\r\nSoul\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e1\u003c/td\u003e\r\n\t\t\t\u003ctd class=\"td\" style=\"text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount\r\namount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e11,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\u003c/tr\u003e\r\n\u003c/tbody\u003e\r\n\u003ctfoot\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eSubtotal:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e22,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eShipping:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\r\n\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e12,00\u003c/span\u003e \u003csmall class=\"shipped_via\"\u003evia Flat rate\u003c/small\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003ePayment method:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eCash on delivery\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003cth class=\"td\" scope=\"row\" colspan=\"2\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003eTotal:\u003c/th\u003e\r\n\t\t\t\t\t\t\t\u003ctd class=\"td\" style=\"text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;\"\u003e\u003cspan class=\"woocommerce-Price-amount amount\"\u003e\u003cspan class=\"woocommerce-Price-currencySymbol\"\u003eR$\u003c/span\u003e34,00\u003c/span\u003e\u003c/td\u003e\r\n\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003c/tfoot\u003e\r\n\u003c/table\u003e\r\n\u003c/div\u003e\r\n\r\n\u003ctable id=\"addresses\" cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; vertical-align: top; margin-bottom: 40px; padding: 0;\" border=\"0\"\u003e\u003ctr\u003e\r\n\u003ctd style=\"text-align: left; border: 0; padding: 0;\" valign=\"top\" width=\"50%\"\u003e\r\n\t\t\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003eBilling address\u003c/h2\u003e\r\n\r\n\t\t\t\u003caddress class=\"address\" style=\"padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;\"\u003e\r\n\t\t\t\tYuri Caetano\u003cbr\u003eQC 01 Conjunto D Numero 04\u003cbr\u003eloja 03\u003cbr\u003esanta\r\nmaria\u003cbr\u003eDistrito\r\nFederal\u003cbr\u003e72535-040\t\t\t\t\t\t\t\t\t\u003cbr\u003e61991829742\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cp style=\"margin: 0 0 16px;\"\u003eyuri.alexs@gmail.com\u003c/p\u003e\r\n\t\t\t\t\t\t\t\u003c/address\u003e\r\n\t\t\u003c/td\u003e\r\n\t\t\t\t\t\u003ctd style=\"text-align: left; padding: 0;\" valign=\"top\" width=\"50%\"\u003e\r\n\t\t\t\t\u003ch2 style='color: #96588a; display: block; font-family: \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'\u003eShipping address\u003c/h2\u003e\r\n\r\n\t\t\t\t\u003caddress class=\"address\" style=\"padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;\"\u003eYuri Caetano\u003cbr\u003eQC 01 Conjunto D Numero\r\n04\u003cbr\u003eloja 03\u003cbr\u003esanta maria\u003cbr\u003eDistrito\r\nFederal\u003cbr\u003e72535040\u003c/address\u003e\r\n\t\t\t\u003c/td\u003e\r\n\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/div\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Content --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Body --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003ctr\u003e\r\n\u003ctd align=\"center\" valign=\"top\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- Footer --\u003e\r\n\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"10\" cellspacing=\"0\" width=\"600\" id=\"template_footer\"\u003e\u003ctr\u003e\r\n\u003ctd valign=\"top\" style=\"padding: 0; -webkit-border-radius: 6px;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\u003ctable border=\"0\" cellpadding=\"10\" cellspacing=\"0\" width=\"100%\"\u003e\u003ctr\u003e\r\n\u003ctd colspan=\"2\" valign=\"middle\" id=\"credit\" style=\"padding: 0 48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #c09bb9; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cp\u003eTentação Sexy\u003c/p\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c!-- End Footer --\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e\r\n\u003c/table\u003e\r\n\u003c/td\u003e\r\n\t\t\t\t\u003c/tr\u003e\u003c/table\u003e\r\n\u003c/div\u003e\r\n\t\u003c/body\u003e\r\n\u003c/html\u003e\r\n",
+    "Helo": "localhost"
+  }
+}
+
+[APIv1] BROADCAST /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events

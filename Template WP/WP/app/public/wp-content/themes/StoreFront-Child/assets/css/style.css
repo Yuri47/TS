@@ -109,8 +109,14 @@ footer a {
     text-decoration: none;
     color: white;
 }
+footer a:hover {
+    text-decoration: none;
+     
+}
+
 footer li {
-    font-size: 12px;
+    font-size: 14px;
+    padding: 3px 0px;
 }
 
 @media (min-width: 992px){
@@ -286,6 +292,23 @@ padding: .5rem 1rem;
     background-color: #0a0a0a;
     color: #ffffff;
 }
+
+input[type="submit"] {
+    background-color: #ff009d !important;
+    border-radius: 3px;
+    font-weight: 100;
+    letter-spacing: 2px;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 .temp1{

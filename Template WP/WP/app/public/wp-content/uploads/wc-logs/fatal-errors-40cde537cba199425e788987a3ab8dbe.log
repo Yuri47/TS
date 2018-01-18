@@ -237,3 +237,15 @@ Stack trace:
 #7 {main}
   thrown
 
+2018-01-18T17:20:41+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_register_form() in /app/public/wp-content/themes/StoreFront-Child/header.php:47
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/StoreFront-Child/woocommerce.php(13): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown
+

@@ -1,0 +1,922 @@
+2018/01/18 11:58:52 Using in-memory storage
+2018/01/18 11:58:52 [SMTP] Binding to address: 0.0.0.0:1025
+2018/01/18 11:58:52 Serving under http://:1080/
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Starting session
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] [PROTO: INVALID] Started session, switching to ESTABLISH state
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Sent 35 bytes: '220 mailhog.example ESMTP MailHog\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Received 16 bytes: 'EHLO localhost\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] [PROTO: ESTABLISH] Processing line: EHLO localhost
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] [PROTO: ESTABLISH] In state 1, got command 'EHLO', args 'localhost'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] [PROTO: ESTABLISH] In ESTABLISH state
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] [PROTO: ESTABLISH] Got EHLO command, switching to MAIL state
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Sent 21 bytes: '250-Hello localhost\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Sent 16 bytes: '250-PIPELINING\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Sent 16 bytes: '250 AUTH PLAIN\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Received 35 bytes: 'MAIL FROM:<www-data@354d0e02365c>\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] [PROTO: MAIL] Processing line: MAIL FROM:<www-data@354d0e02365c>
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] [PROTO: MAIL] In state 6, got command 'MAIL', args 'FROM:<www-data@354d0e02365c>'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] [PROTO: MAIL] In MAIL state
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] [PROTO: MAIL] Got MAIL command, switching to RCPT state
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Sent 37 bytes: '250 Sender www-data@354d0e02365c ok\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Received 34 bytes: 'RCPT TO:<mailhog@flywheel.local>\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] [PROTO: RCPT] Processing line: RCPT TO:<mailhog@flywheel.local>
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] [PROTO: RCPT] In state 7, got command 'RCPT', args 'TO:<mailhog@flywheel.local>'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] [PROTO: RCPT] In RCPT state
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] [PROTO: RCPT] Got RCPT command
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Sent 41 bytes: '250 Recipient mailhog@flywheel.local ok\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Received 6 bytes: 'DATA\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] [PROTO: RCPT] Processing line: DATA
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] [PROTO: RCPT] In state 7, got command 'DATA', args ''
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] [PROTO: RCPT] In RCPT state
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] [PROTO: RCPT] Got DATA command, switching to DATA state
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Sent 37 bytes: '354 End data with <CR><LF>.<CR><LF>\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Received 1024 bytes: 'To: yuri.alexs.dev@gmail.com\r\nSubject: =?UTF-8?Q?[Tenta=C3=A7=C3=A3o_Sexy]_New_customer_order_(89)_-_January_18,?=  =?UTF-8?Q?_2018?=\r\nX-PHP-Originating-Script: 1000:class-phpmailer.php\r\nDate: Thu, 18 Jan 2018 15:18:14 +0000\r\nFrom: =?UTF-8?Q?Tenta=C3=A7=C3=A3o_Sexy?= <yuri.alexs.dev@gmail.com>\r\nReply-To: Yuri Caetano <yuri.alexs@gmail.com>\r\nMessage-ID: <2a7d62fa8c81b3dc5fe7cf75e6794191@tentacaosexy.wp>\r\nX-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)\r\nMIME-Version: 1.0\r\nContent-Type: text/html; charset=UTF-8\r\nContent-Transfer-Encoding: 8bit\r\n\r\n<!DOCTYPE html>\r\n<html lang="en-US">\r\n<head>\r\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">\r\n<title>Tentação Sexy</title>\r\n</head>\r\n<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">\r\n		<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;">\r\n			<table border="0" cellpadding="0" cellspacing="0" height'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Received 1024 bytes: '="100%" width="100%"><tr>\r\n<td align="center" valign="top">\r\n						<div id="template_header_image">\r\n													</div>\r\n						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #ffffff; border: 1px solid #dedede; border-radius: 3px !important;">\r\n<tr>\r\n<td align="center" valign="top">\r\n									<!-- Header -->\r\n									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #96588a; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;'><tr>\r\n<td id="header_wrapper" style="padding: 36px 48px; display: block;">\r\n												<h1 style='color: #ffffff; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; t'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Received 1024 bytes: 'ext-shadow: 0 1px 0 #ab79a1; -webkit-font-smoothing: antialiased;'>New customer order</h1>\r\n											</td>\r\n										</tr></table>\r\n<!-- End Header -->\r\n</td>\r\n							</tr>\r\n<tr>\r\n<td align="center" valign="top">\r\n									<!-- Body -->\r\n									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body"><tr>\r\n<td valign="top" id="body_content" style="background-color: #ffffff;">\r\n												<!-- Content -->\r\n												<table border="0" cellpadding="20" cellspacing="0" width="100%"><tr>\r\n<td valign="top" style="padding: 48px 48px 0;">\r\n															<div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>\r\n\r\n <p style="margin: 0 0 16px;">You have received an order from Yuri Caetano. The order is as\r\nfollows:</p>\r\n\r\n \r\n	<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Received 1024 bytes: '; line-height: 130%; margin: 0 0 18px; text-align: left;'>\r\n<a class="link" href="http://tentacaosexy.wp/wp-admin/post.php?post=89&amp;action=edit" style="color: #96588a; font-weight: normal; text-decoration: underline;">Order\r\n#89</a> (<time datetime="2018-01-18T15:18:12+00:00">January 18,\r\n2018</time>)</h2>\r\n\r\n<div style="margin-bottom: 40px;">\r\n	<table class="td" cellspacing="0" cellpadding="6" style="width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; color: #636363; border: 1px solid #e5e5e5;" border="1">\r\n<thead><tr>\r\n<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Product</th>\r\n				<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Quantity</th>\r\n				<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Price</th>\r\n			</tr></thead>\r\n<tbody>\r\n<tr class="order_item">\r\n<td class="td" style="text-ali'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Received 1024 bytes: 'gn: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;">Entires Your\r\nDamn</td>\r\n			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;">1</td>\r\n			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;"><span class="woocommerce-Price-amount\r\namount"><span class="woocommerce-Price-currencySymbol">R$</span>11,00</span></td>\r\n		</tr>\r\n<tr class="order_item">\r\n<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;">Entires Your\r\nSoul</td>\r\n			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;">1</td>\r\n			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;"><span class="woocommerce-Price-amount\r\namount"><span c'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Received 1024 bytes: 'lass="woocommerce-Price-currencySymbol">R$</span>11,00</span></td>\r\n		</tr>\r\n<tr class="order_item">\r\n<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;">Another Produto</td>\r\n			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;">1</td>\r\n			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;"><span class="woocommerce-Price-amount\r\namount"><span class="woocommerce-Price-currencySymbol">R$</span>11,00</span></td>\r\n		</tr>\r\n</tbody>\r\n<tfoot>\r\n<tr>\r\n<th class="td" scope="row" colspan="2" style="text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Subtotal:</th>\r\n							<td class="td" style="text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;"><span class="woocommerce-Price-amount amount"><span clas'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Received 1024 bytes: 's="woocommerce-Price-currencySymbol">R$</span>33,00</span></td>\r\n						</tr>\r\n<tr>\r\n<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Shipping:</th>\r\n							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">\r\n<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">R$</span>12,00</span> <small class="shipped_via">via Flat rate</small>\r\n</td>\r\n						</tr>\r\n<tr>\r\n<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Payment method:</th>\r\n							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Check payments</td>\r\n						</tr>\r\n<tr>\r\n<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Total:</th>\r\n							<td class="td" style="text-align: left; color: #636363; border: 1px'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Received 1024 bytes: ' solid #e5e5e5; padding: 12px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">R$</span>45,00</span></td>\r\n						</tr>\r\n</tfoot>\r\n</table>\r\n</div>\r\n\r\n<table id="addresses" cellspacing="0" cellpadding="0" style="width: 100%; vertical-align: top; margin-bottom: 40px; padding: 0;" border="0"><tr>\r\n<td style="text-align: left; border: 0; padding: 0;" valign="top" width="50%">\r\n			<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Billing address</h2>\r\n\r\n			<address class="address" style="padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;">\r\n				Yuri Caetano<br>QC 01 Conjunto D 04 Loja\r\n03<br>04<br>Brasília<br>Distrito\r\nFederal<br>72535-040									<br>61991829742													<p style="margin: 0 0 16px;">yuri.alexs@gmail.com</p>\r\n							</address>\r\n		</td>\r\n					<td style="text-align: left; padding: 0;" '
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Received 1024 bytes: 'valign="top" width="50%">\r\n				<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Shipping address</h2>\r\n\r\n				<address class="address" style="padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;">Yuri Caetano<br>QC 01 Conjunto D 04 Loja\r\n03<br>04<br>Brasília<br>Distrito Federal<br>72535040</address>\r\n			</td>\r\n			</tr></table>\r\n</div>\r\n														</td>\r\n													</tr></table>\r\n<!-- End Content -->\r\n</td>\r\n										</tr></table>\r\n<!-- End Body -->\r\n</td>\r\n							</tr>\r\n<tr>\r\n<td align="center" valign="top">\r\n									<!-- Footer -->\r\n									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer"><tr>\r\n<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">\r\n												<table border="0" cellpadding="10" cellspacing="0" width="100%"><tr>\r\n<td colspan="2" valign="middle" id="credit" style="padding: 0 '
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Received 380 bytes: '48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #c09bb9; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;">\r\n															<p>Tentação Sexy</p>\r\n														</td>\r\n													</tr></table>\r\n</td>\r\n										</tr></table>\r\n<!-- End Footer -->\r\n</td>\r\n							</tr>\r\n</table>\r\n</td>\r\n				</tr></table>\r\n</div>\r\n	</body>\r\n</html>\r\n\r\n.\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] [PROTO: DATA] Got EOF, storing message and switching to MAIL state
+2018/01/18 15:18:14 Parsing Content from string: 'To: yuri.alexs.dev@gmail.com
+Subject: =?UTF-8?Q?[Tenta=C3=A7=C3=A3o_Sexy]_New_customer_order_(89)_-_January_18,?=  =?UTF-8?Q?_2018?=
+X-PHP-Originating-Script: 1000:class-phpmailer.php
+Date: Thu, 18 Jan 2018 15:18:14 +0000
+From: =?UTF-8?Q?Tenta=C3=A7=C3=A3o_Sexy?= <yuri.alexs.dev@gmail.com>
+Reply-To: Yuri Caetano <yuri.alexs@gmail.com>
+Message-ID: <2a7d62fa8c81b3dc5fe7cf75e6794191@tentacaosexy.wp>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Tentação Sexy</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+		<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;">
+			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%"><tr>
+<td align="center" valign="top">
+						<div id="template_header_image">
+													</div>
+						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #ffffff; border: 1px solid #dedede; border-radius: 3px !important;">
+<tr>
+<td align="center" valign="top">
+									<!-- Header -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #96588a; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;'><tr>
+<td id="header_wrapper" style="padding: 36px 48px; display: block;">
+												<h1 style='color: #ffffff; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #ab79a1; -webkit-font-smoothing: antialiased;'>New customer order</h1>
+											</td>
+										</tr></table>
+<!-- End Header -->
+</td>
+							</tr>
+<tr>
+<td align="center" valign="top">
+									<!-- Body -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body"><tr>
+<td valign="top" id="body_content" style="background-color: #ffffff;">
+												<!-- Content -->
+												<table border="0" cellpadding="20" cellspacing="0" width="100%"><tr>
+<td valign="top" style="padding: 48px 48px 0;">
+															<div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+
+ <p style="margin: 0 0 16px;">You have received an order from Yuri Caetano. The order is as
+follows:</p>
+
+ 
+	<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>
+<a class="link" href="http://tentacaosexy.wp/wp-admin/post.php?post=89&amp;action=edit" style="color: #96588a; font-weight: normal; text-decoration: underline;">Order
+#89</a> (<time datetime="2018-01-18T15:18:12+00:00">January 18,
+2018</time>)</h2>
+
+<div style="margin-bottom: 40px;">
+	<table class="td" cellspacing="0" cellpadding="6" style="width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; color: #636363; border: 1px solid #e5e5e5;" border="1">
+<thead><tr>
+<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Product</th>
+				<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Quantity</th>
+				<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Price</th>
+			</tr></thead>
+<tbody>
+<tr class="order_item">
+<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;">Entires Your
+Damn</td>
+			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;">1</td>
+			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;"><span class="woocommerce-Price-amount
+amount"><span class="woocommerce-Price-currencySymbol">R$</span>11,00</span></td>
+		</tr>
+<tr class="order_item">
+<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;">Entires Your
+Soul</td>
+			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;">1</td>
+			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;"><span class="woocommerce-Price-amount
+amount"><span class="woocommerce-Price-currencySymbol">R$</span>11,00</span></td>
+		</tr>
+<tr class="order_item">
+<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;">Another Produto</td>
+			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;">1</td>
+			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;"><span class="woocommerce-Price-amount
+amount"><span class="woocommerce-Price-currencySymbol">R$</span>11,00</span></td>
+		</tr>
+</tbody>
+<tfoot>
+<tr>
+<th class="td" scope="row" colspan="2" style="text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Subtotal:</th>
+							<td class="td" style="text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">R$</span>33,00</span></td>
+						</tr>
+<tr>
+<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Shipping:</th>
+							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">
+<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">R$</span>12,00</span> <small class="shipped_via">via Flat rate</small>
+</td>
+						</tr>
+<tr>
+<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Payment method:</th>
+							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Check payments</td>
+						</tr>
+<tr>
+<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Total:</th>
+							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">R$</span>45,00</span></td>
+						</tr>
+</tfoot>
+</table>
+</div>
+
+<table id="addresses" cellspacing="0" cellpadding="0" style="width: 100%; vertical-align: top; margin-bottom: 40px; padding: 0;" border="0"><tr>
+<td style="text-align: left; border: 0; padding: 0;" valign="top" width="50%">
+			<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Billing address</h2>
+
+			<address class="address" style="padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;">
+				Yuri Caetano<br>QC 01 Conjunto D 04 Loja
+03<br>04<br>Brasília<br>Distrito
+Federal<br>72535-040									<br>61991829742													<p style="margin: 0 0 16px;">yuri.alexs@gmail.com</p>
+							</address>
+		</td>
+					<td style="text-align: left; padding: 0;" valign="top" width="50%">
+				<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Shipping address</h2>
+
+				<address class="address" style="padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;">Yuri Caetano<br>QC 01 Conjunto D 04 Loja
+03<br>04<br>Brasília<br>Distrito Federal<br>72535040</address>
+			</td>
+			</tr></table>
+</div>
+														</td>
+													</tr></table>
+<!-- End Content -->
+</td>
+										</tr></table>
+<!-- End Body -->
+</td>
+							</tr>
+<tr>
+<td align="center" valign="top">
+									<!-- Footer -->
+									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer"><tr>
+<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+												<table border="0" cellpadding="10" cellspacing="0" width="100%"><tr>
+<td colspan="2" valign="middle" id="credit" style="padding: 0 48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #c09bb9; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;">
+															<p>Tentação Sexy</p>
+														</td>
+													</tr></table>
+</td>
+										</tr></table>
+<!-- End Footer -->
+</td>
+							</tr>
+</table>
+</td>
+				</tr></table>
+</div>
+	</body>
+</html>
+'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Storing message Y27BcYmFgjcfyBHQgrOClboLS0yc8MtlQs_GZ8GJuZk=@mailhog.example
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Sent 80 bytes: '250 Ok: queued as Y27BcYmFgjcfyBHQgrOClboLS0yc8MtlQs_GZ8GJuZk=@mailhog.example\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Received 6 bytes: 'QUIT\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] [PROTO: MAIL] Processing line: QUIT
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] [PROTO: MAIL] In state 6, got command 'QUIT', args ''
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] [PROTO: MAIL] Got QUIT verb, staying in MAIL state
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Sent 9 bytes: '221 Bye\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54170] Session ended
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Starting session
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] [PROTO: INVALID] Started session, switching to ESTABLISH state
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Sent 35 bytes: '220 mailhog.example ESMTP MailHog\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Received 16 bytes: 'EHLO localhost\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] [PROTO: ESTABLISH] Processing line: EHLO localhost
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] [PROTO: ESTABLISH] In state 1, got command 'EHLO', args 'localhost'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] [PROTO: ESTABLISH] In ESTABLISH state
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] [PROTO: ESTABLISH] Got EHLO command, switching to MAIL state
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Sent 21 bytes: '250-Hello localhost\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Sent 16 bytes: '250-PIPELINING\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Sent 16 bytes: '250 AUTH PLAIN\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Received 35 bytes: 'MAIL FROM:<www-data@354d0e02365c>\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] [PROTO: MAIL] Processing line: MAIL FROM:<www-data@354d0e02365c>
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] [PROTO: MAIL] In state 6, got command 'MAIL', args 'FROM:<www-data@354d0e02365c>'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] [PROTO: MAIL] In MAIL state
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] [PROTO: MAIL] Got MAIL command, switching to RCPT state
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Sent 37 bytes: '250 Sender www-data@354d0e02365c ok\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Received 34 bytes: 'RCPT TO:<mailhog@flywheel.local>\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] [PROTO: RCPT] Processing line: RCPT TO:<mailhog@flywheel.local>
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] [PROTO: RCPT] In state 7, got command 'RCPT', args 'TO:<mailhog@flywheel.local>'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] [PROTO: RCPT] In RCPT state
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] [PROTO: RCPT] Got RCPT command
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Sent 41 bytes: '250 Recipient mailhog@flywheel.local ok\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Received 6 bytes: 'DATA\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] [PROTO: RCPT] Processing line: DATA
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] [PROTO: RCPT] In state 7, got command 'DATA', args ''
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] [PROTO: RCPT] In RCPT state
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] [PROTO: RCPT] Got DATA command, switching to DATA state
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Sent 37 bytes: '354 End data with <CR><LF>.<CR><LF>\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Received 1024 bytes: 'To: yuri.alexs@gmail.com\r\nSubject: =?UTF-8?Q?Your_Tenta=C3=A7=C3=A3o_Sexy_order_receipt_from_January_18,_201?=  =?UTF-8?Q?8?=\r\nX-PHP-Originating-Script: 1000:class-phpmailer.php\r\nDate: Thu, 18 Jan 2018 15:18:14 +0000\r\nFrom: =?UTF-8?Q?Tenta=C3=A7=C3=A3o_Sexy?= <yuri.alexs.dev@gmail.com>\r\nMessage-ID: <890ce2b369d3715b18f49946ee28773c@tentacaosexy.wp>\r\nX-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)\r\nMIME-Version: 1.0\r\nContent-Type: text/html; charset=UTF-8\r\nContent-Transfer-Encoding: 8bit\r\n\r\n<!DOCTYPE html>\r\n<html lang="en-US">\r\n<head>\r\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">\r\n<title>Tentação Sexy</title>\r\n</head>\r\n<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">\r\n		<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;">\r\n			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%"><tr>\r\n<td align="center" valign="t'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Received 1024 bytes: 'op">\r\n						<div id="template_header_image">\r\n													</div>\r\n						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #ffffff; border: 1px solid #dedede; border-radius: 3px !important;">\r\n<tr>\r\n<td align="center" valign="top">\r\n									<!-- Header -->\r\n									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #96588a; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;'><tr>\r\n<td id="header_wrapper" style="padding: 36px 48px; display: block;">\r\n												<h1 style='color: #ffffff; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #ab79a1; -webkit-font-smoothing: an'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Received 1024 bytes: 'tialiased;'>Thank you for your order</h1>\r\n											</td>\r\n										</tr></table>\r\n<!-- End Header -->\r\n</td>\r\n							</tr>\r\n<tr>\r\n<td align="center" valign="top">\r\n									<!-- Body -->\r\n									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body"><tr>\r\n<td valign="top" id="body_content" style="background-color: #ffffff;">\r\n												<!-- Content -->\r\n												<table border="0" cellpadding="20" cellspacing="0" width="100%"><tr>\r\n<td valign="top" style="padding: 48px 48px 0;">\r\n															<div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>\r\n\r\n<p style="margin: 0 0 16px;">Your order is on-hold until we confirm payment has been received.\r\nYour order details are shown below for your reference:</p>\r\n\r\n\r\n	<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold;'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Received 1024 bytes: ' line-height: 130%; margin: 0 0 18px; text-align: left;'>Order #89 (<time datetime="2018-01-18T15:18:12+00:00">January 18,\r\n2018</time>)</h2>\r\n\r\n<div style="margin-bottom: 40px;">\r\n	<table class="td" cellspacing="0" cellpadding="6" style="width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; color: #636363; border: 1px solid #e5e5e5;" border="1">\r\n<thead><tr>\r\n<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Product</th>\r\n				<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Quantity</th>\r\n				<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Price</th>\r\n			</tr></thead>\r\n<tbody>\r\n<tr class="order_item">\r\n<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;">Entires Your\r\nDamn</td>\r\n			<td class="td" style="text-a'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Received 1024 bytes: 'lign: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;">1</td>\r\n			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;"><span class="woocommerce-Price-amount\r\namount"><span class="woocommerce-Price-currencySymbol">R$</span>11,00</span></td>\r\n		</tr>\r\n<tr class="order_item">\r\n<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;">Entires Your\r\nSoul</td>\r\n			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;">1</td>\r\n			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;"><span class="woocommerce-Price-amount\r\namount"><span class="woocommerce-Price-currencySymbol">R$</span>11,00</span></td>\r\n		</tr>\r\n<tr class="order_item">\r\n<td class="td" style="text-align: left; vertical-align: middle; bor'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Received 1024 bytes: 'der: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;">Another Produto</td>\r\n			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;">1</td>\r\n			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;"><span class="woocommerce-Price-amount\r\namount"><span class="woocommerce-Price-currencySymbol">R$</span>11,00</span></td>\r\n		</tr>\r\n</tbody>\r\n<tfoot>\r\n<tr>\r\n<th class="td" scope="row" colspan="2" style="text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Subtotal:</th>\r\n							<td class="td" style="text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">R$</span>33,00</span></td>\r\n						</tr>\r\n<tr>\r\n<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; borde'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Received 1024 bytes: 'r: 1px solid #e5e5e5; padding: 12px;">Shipping:</th>\r\n							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">\r\n<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">R$</span>12,00</span> <small class="shipped_via">via Flat rate</small>\r\n</td>\r\n						</tr>\r\n<tr>\r\n<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Payment method:</th>\r\n							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Check payments</td>\r\n						</tr>\r\n<tr>\r\n<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Total:</th>\r\n							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">R$</span>45,00</span></td>\r\n						</tr>\r\n</t'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Received 1024 bytes: 'foot>\r\n</table>\r\n</div>\r\n\r\n<table id="addresses" cellspacing="0" cellpadding="0" style="width: 100%; vertical-align: top; margin-bottom: 40px; padding: 0;" border="0"><tr>\r\n<td style="text-align: left; border: 0; padding: 0;" valign="top" width="50%">\r\n			<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Billing address</h2>\r\n\r\n			<address class="address" style="padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;">\r\n				Yuri Caetano<br>QC 01 Conjunto D 04 Loja\r\n03<br>04<br>Brasília<br>Distrito\r\nFederal<br>72535-040									<br>61991829742													<p style="margin: 0 0 16px;">yuri.alexs@gmail.com</p>\r\n							</address>\r\n		</td>\r\n					<td style="text-align: left; padding: 0;" valign="top" width="50%">\r\n				<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weig'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Received 1024 bytes: 'ht: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Shipping address</h2>\r\n\r\n				<address class="address" style="padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;">Yuri Caetano<br>QC 01 Conjunto D 04 Loja\r\n03<br>04<br>Brasília<br>Distrito Federal<br>72535040</address>\r\n			</td>\r\n			</tr></table>\r\n</div>\r\n														</td>\r\n													</tr></table>\r\n<!-- End Content -->\r\n</td>\r\n										</tr></table>\r\n<!-- End Body -->\r\n</td>\r\n							</tr>\r\n<tr>\r\n<td align="center" valign="top">\r\n									<!-- Footer -->\r\n									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer"><tr>\r\n<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">\r\n												<table border="0" cellpadding="10" cellspacing="0" width="100%"><tr>\r\n<td colspan="2" valign="middle" id="credit" style="padding: 0 48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #c09bb9; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;">\r\n															<p>T'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Received 211 bytes: 'entação Sexy</p>\r\n														</td>\r\n													</tr></table>\r\n</td>\r\n										</tr></table>\r\n<!-- End Footer -->\r\n</td>\r\n							</tr>\r\n</table>\r\n</td>\r\n				</tr></table>\r\n</div>\r\n	</body>\r\n</html>\r\n\r\n.\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] [PROTO: DATA] Got EOF, storing message and switching to MAIL state
+2018/01/18 15:18:14 Parsing Content from string: 'To: yuri.alexs@gmail.com
+Subject: =?UTF-8?Q?Your_Tenta=C3=A7=C3=A3o_Sexy_order_receipt_from_January_18,_201?=  =?UTF-8?Q?8?=
+X-PHP-Originating-Script: 1000:class-phpmailer.php
+Date: Thu, 18 Jan 2018 15:18:14 +0000
+From: =?UTF-8?Q?Tenta=C3=A7=C3=A3o_Sexy?= <yuri.alexs.dev@gmail.com>
+Message-ID: <890ce2b369d3715b18f49946ee28773c@tentacaosexy.wp>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Tentação Sexy</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+		<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;">
+			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%"><tr>
+<td align="center" valign="top">
+						<div id="template_header_image">
+													</div>
+						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #ffffff; border: 1px solid #dedede; border-radius: 3px !important;">
+<tr>
+<td align="center" valign="top">
+									<!-- Header -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #96588a; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;'><tr>
+<td id="header_wrapper" style="padding: 36px 48px; display: block;">
+												<h1 style='color: #ffffff; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #ab79a1; -webkit-font-smoothing: antialiased;'>Thank you for your order</h1>
+											</td>
+										</tr></table>
+<!-- End Header -->
+</td>
+							</tr>
+<tr>
+<td align="center" valign="top">
+									<!-- Body -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body"><tr>
+<td valign="top" id="body_content" style="background-color: #ffffff;">
+												<!-- Content -->
+												<table border="0" cellpadding="20" cellspacing="0" width="100%"><tr>
+<td valign="top" style="padding: 48px 48px 0;">
+															<div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+
+<p style="margin: 0 0 16px;">Your order is on-hold until we confirm payment has been received.
+Your order details are shown below for your reference:</p>
+
+
+	<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Order #89 (<time datetime="2018-01-18T15:18:12+00:00">January 18,
+2018</time>)</h2>
+
+<div style="margin-bottom: 40px;">
+	<table class="td" cellspacing="0" cellpadding="6" style="width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; color: #636363; border: 1px solid #e5e5e5;" border="1">
+<thead><tr>
+<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Product</th>
+				<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Quantity</th>
+				<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Price</th>
+			</tr></thead>
+<tbody>
+<tr class="order_item">
+<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;">Entires Your
+Damn</td>
+			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;">1</td>
+			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;"><span class="woocommerce-Price-amount
+amount"><span class="woocommerce-Price-currencySymbol">R$</span>11,00</span></td>
+		</tr>
+<tr class="order_item">
+<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;">Entires Your
+Soul</td>
+			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;">1</td>
+			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;"><span class="woocommerce-Price-amount
+amount"><span class="woocommerce-Price-currencySymbol">R$</span>11,00</span></td>
+		</tr>
+<tr class="order_item">
+<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;">Another Produto</td>
+			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;">1</td>
+			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;"><span class="woocommerce-Price-amount
+amount"><span class="woocommerce-Price-currencySymbol">R$</span>11,00</span></td>
+		</tr>
+</tbody>
+<tfoot>
+<tr>
+<th class="td" scope="row" colspan="2" style="text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Subtotal:</th>
+							<td class="td" style="text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">R$</span>33,00</span></td>
+						</tr>
+<tr>
+<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Shipping:</th>
+							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">
+<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">R$</span>12,00</span> <small class="shipped_via">via Flat rate</small>
+</td>
+						</tr>
+<tr>
+<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Payment method:</th>
+							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Check payments</td>
+						</tr>
+<tr>
+<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Total:</th>
+							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">R$</span>45,00</span></td>
+						</tr>
+</tfoot>
+</table>
+</div>
+
+<table id="addresses" cellspacing="0" cellpadding="0" style="width: 100%; vertical-align: top; margin-bottom: 40px; padding: 0;" border="0"><tr>
+<td style="text-align: left; border: 0; padding: 0;" valign="top" width="50%">
+			<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Billing address</h2>
+
+			<address class="address" style="padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;">
+				Yuri Caetano<br>QC 01 Conjunto D 04 Loja
+03<br>04<br>Brasília<br>Distrito
+Federal<br>72535-040									<br>61991829742													<p style="margin: 0 0 16px;">yuri.alexs@gmail.com</p>
+							</address>
+		</td>
+					<td style="text-align: left; padding: 0;" valign="top" width="50%">
+				<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Shipping address</h2>
+
+				<address class="address" style="padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;">Yuri Caetano<br>QC 01 Conjunto D 04 Loja
+03<br>04<br>Brasília<br>Distrito Federal<br>72535040</address>
+			</td>
+			</tr></table>
+</div>
+														</td>
+													</tr></table>
+<!-- End Content -->
+</td>
+										</tr></table>
+<!-- End Body -->
+</td>
+							</tr>
+<tr>
+<td align="center" valign="top">
+									<!-- Footer -->
+									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer"><tr>
+<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+												<table border="0" cellpadding="10" cellspacing="0" width="100%"><tr>
+<td colspan="2" valign="middle" id="credit" style="padding: 0 48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #c09bb9; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;">
+															<p>Tentação Sexy</p>
+														</td>
+													</tr></table>
+</td>
+										</tr></table>
+<!-- End Footer -->
+</td>
+							</tr>
+</table>
+</td>
+				</tr></table>
+</div>
+	</body>
+</html>
+'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Storing message 9aj6MvuegTaEr8O1DE-YUxwS_mRSlqVfUWWlULmGGfo=@mailhog.example
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Sent 80 bytes: '250 Ok: queued as 9aj6MvuegTaEr8O1DE-YUxwS_mRSlqVfUWWlULmGGfo=@mailhog.example\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Received 6 bytes: 'QUIT\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] [PROTO: MAIL] Processing line: QUIT
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] [PROTO: MAIL] In state 6, got command 'QUIT', args ''
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] [PROTO: MAIL] Got QUIT verb, staying in MAIL state
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Sent 9 bytes: '221 Bye\r\n'
+2018/01/18 15:18:14 [SMTP 127.0.0.1:54172] Session ended
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] Starting session
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] [PROTO: INVALID] Started session, switching to ESTABLISH state
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] Sent 35 bytes: '220 mailhog.example ESMTP MailHog\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] Received 16 bytes: 'EHLO localhost\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] [PROTO: ESTABLISH] Processing line: EHLO localhost
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] [PROTO: ESTABLISH] In state 1, got command 'EHLO', args 'localhost'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] [PROTO: ESTABLISH] In ESTABLISH state
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] [PROTO: ESTABLISH] Got EHLO command, switching to MAIL state
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] Sent 21 bytes: '250-Hello localhost\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] Sent 16 bytes: '250-PIPELINING\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] Sent 16 bytes: '250 AUTH PLAIN\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] Received 35 bytes: 'MAIL FROM:<www-data@354d0e02365c>\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] [PROTO: MAIL] Processing line: MAIL FROM:<www-data@354d0e02365c>
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] [PROTO: MAIL] In state 6, got command 'MAIL', args 'FROM:<www-data@354d0e02365c>'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] [PROTO: MAIL] In MAIL state
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] [PROTO: MAIL] Got MAIL command, switching to RCPT state
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] Sent 37 bytes: '250 Sender www-data@354d0e02365c ok\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] Received 34 bytes: 'RCPT TO:<mailhog@flywheel.local>\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] [PROTO: RCPT] Processing line: RCPT TO:<mailhog@flywheel.local>
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] [PROTO: RCPT] In state 7, got command 'RCPT', args 'TO:<mailhog@flywheel.local>'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] [PROTO: RCPT] In RCPT state
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] [PROTO: RCPT] Got RCPT command
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] Sent 41 bytes: '250 Recipient mailhog@flywheel.local ok\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] Received 6 bytes: 'DATA\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] [PROTO: RCPT] Processing line: DATA
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] [PROTO: RCPT] In state 7, got command 'DATA', args ''
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] [PROTO: RCPT] In RCPT state
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] [PROTO: RCPT] Got DATA command, switching to DATA state
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] Sent 37 bytes: '354 End data with <CR><LF>.<CR><LF>\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] Received 1024 bytes: 'To: yuri.alexs@gmail.com\r\nSubject: =?UTF-8?Q?Your_account_on_Tenta=C3=A7=C3=A3o_Sexy?=\r\nX-PHP-Originating-Script: 1000:class-phpmailer.php\r\nDate: Thu, 18 Jan 2018 15:20:56 +0000\r\nFrom: =?UTF-8?Q?Tenta=C3=A7=C3=A3o_Sexy?= <yuri.alexs.dev@gmail.com>\r\nMessage-ID: <667144ac3c978082c4173b4fb5eb8529@tentacaosexy.wp>\r\nX-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)\r\nMIME-Version: 1.0\r\nContent-Type: text/html; charset=UTF-8\r\nContent-Transfer-Encoding: 8bit\r\n\r\n<!DOCTYPE html>\r\n<html lang="en-US">\r\n<head>\r\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">\r\n<title>Tentação Sexy</title>\r\n</head>\r\n<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">\r\n		<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;">\r\n			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%"><tr>\r\n<td align="center" valign="top">\r\n						<div id="template_header_im'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] Received 1024 bytes: 'age">\r\n													</div>\r\n						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #ffffff; border: 1px solid #dedede; border-radius: 3px !important;">\r\n<tr>\r\n<td align="center" valign="top">\r\n									<!-- Header -->\r\n									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #96588a; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;'><tr>\r\n<td id="header_wrapper" style="padding: 36px 48px; display: block;">\r\n												<h1 style='color: #ffffff; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #ab79a1; -webkit-font-smoothing: antialiased;'>Welcome to Tentação Sexy<'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] Received 1024 bytes: '/h1>\r\n											</td>\r\n										</tr></table>\r\n<!-- End Header -->\r\n</td>\r\n							</tr>\r\n<tr>\r\n<td align="center" valign="top">\r\n									<!-- Body -->\r\n									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body"><tr>\r\n<td valign="top" id="body_content" style="background-color: #ffffff;">\r\n												<!-- Content -->\r\n												<table border="0" cellpadding="20" cellspacing="0" width="100%"><tr>\r\n<td valign="top" style="padding: 48px 48px 0;">\r\n															<div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>\r\n\r\n	<p style="margin: 0 0 16px;">Thanks for creating an account on Tentação Sexy. Your username\r\nis <strong>yuri.alexs</strong></p>\r\n\r\n\r\n	<p style="margin: 0 0 16px;">You can access your account area to view your orders and change\r\nyour password here: <a href="http://tentacaosexy.wp/my-account/" rel="nofollow" style="color: #96588a; font-weight'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] Received 1008 bytes: ': normal; text-decoration: underline;">http://tentacaosexy.wp/my-account/</a>.</p>\r\n\r\n															</div>\r\n														</td>\r\n													</tr></table>\r\n<!-- End Content -->\r\n</td>\r\n										</tr></table>\r\n<!-- End Body -->\r\n</td>\r\n							</tr>\r\n<tr>\r\n<td align="center" valign="top">\r\n									<!-- Footer -->\r\n									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer"><tr>\r\n<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">\r\n												<table border="0" cellpadding="10" cellspacing="0" width="100%"><tr>\r\n<td colspan="2" valign="middle" id="credit" style="padding: 0 48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #c09bb9; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;">\r\n															<p>Tentação Sexy</p>\r\n														</td>\r\n													</tr></table>\r\n</td>\r\n										</tr></table>\r\n<!-- End Footer -->\r\n</td>\r\n							</tr>\r\n</table>\r\n</td>\r\n				</tr></table>\r\n</div>\r\n	</body>\r\n</html>\r\n\r\n.\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] [PROTO: DATA] Got EOF, storing message and switching to MAIL state
+2018/01/18 15:20:56 Parsing Content from string: 'To: yuri.alexs@gmail.com
+Subject: =?UTF-8?Q?Your_account_on_Tenta=C3=A7=C3=A3o_Sexy?=
+X-PHP-Originating-Script: 1000:class-phpmailer.php
+Date: Thu, 18 Jan 2018 15:20:56 +0000
+From: =?UTF-8?Q?Tenta=C3=A7=C3=A3o_Sexy?= <yuri.alexs.dev@gmail.com>
+Message-ID: <667144ac3c978082c4173b4fb5eb8529@tentacaosexy.wp>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Tentação Sexy</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+		<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;">
+			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%"><tr>
+<td align="center" valign="top">
+						<div id="template_header_image">
+													</div>
+						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #ffffff; border: 1px solid #dedede; border-radius: 3px !important;">
+<tr>
+<td align="center" valign="top">
+									<!-- Header -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #96588a; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;'><tr>
+<td id="header_wrapper" style="padding: 36px 48px; display: block;">
+												<h1 style='color: #ffffff; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #ab79a1; -webkit-font-smoothing: antialiased;'>Welcome to Tentação Sexy</h1>
+											</td>
+										</tr></table>
+<!-- End Header -->
+</td>
+							</tr>
+<tr>
+<td align="center" valign="top">
+									<!-- Body -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body"><tr>
+<td valign="top" id="body_content" style="background-color: #ffffff;">
+												<!-- Content -->
+												<table border="0" cellpadding="20" cellspacing="0" width="100%"><tr>
+<td valign="top" style="padding: 48px 48px 0;">
+															<div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+
+	<p style="margin: 0 0 16px;">Thanks for creating an account on Tentação Sexy. Your username
+is <strong>yuri.alexs</strong></p>
+
+
+	<p style="margin: 0 0 16px;">You can access your account area to view your orders and change
+your password here: <a href="http://tentacaosexy.wp/my-account/" rel="nofollow" style="color: #96588a; font-weight: normal; text-decoration: underline;">http://tentacaosexy.wp/my-account/</a>.</p>
+
+															</div>
+														</td>
+													</tr></table>
+<!-- End Content -->
+</td>
+										</tr></table>
+<!-- End Body -->
+</td>
+							</tr>
+<tr>
+<td align="center" valign="top">
+									<!-- Footer -->
+									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer"><tr>
+<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+												<table border="0" cellpadding="10" cellspacing="0" width="100%"><tr>
+<td colspan="2" valign="middle" id="credit" style="padding: 0 48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #c09bb9; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;">
+															<p>Tentação Sexy</p>
+														</td>
+													</tr></table>
+</td>
+										</tr></table>
+<!-- End Footer -->
+</td>
+							</tr>
+</table>
+</td>
+				</tr></table>
+</div>
+	</body>
+</html>
+'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] Storing message QOsYl0TLpyRI_9lw8QWpdD2WRBVdd5jHjPN3fh1lqhs=@mailhog.example
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] Sent 80 bytes: '250 Ok: queued as QOsYl0TLpyRI_9lw8QWpdD2WRBVdd5jHjPN3fh1lqhs=@mailhog.example\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] Received 6 bytes: 'QUIT\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] [PROTO: MAIL] Processing line: QUIT
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] [PROTO: MAIL] In state 6, got command 'QUIT', args ''
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] [PROTO: MAIL] Got QUIT verb, staying in MAIL state
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] Sent 9 bytes: '221 Bye\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54558] Session ended
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Starting session
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] [PROTO: INVALID] Started session, switching to ESTABLISH state
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Sent 35 bytes: '220 mailhog.example ESMTP MailHog\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Received 16 bytes: 'EHLO localhost\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] [PROTO: ESTABLISH] Processing line: EHLO localhost
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] [PROTO: ESTABLISH] In state 1, got command 'EHLO', args 'localhost'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] [PROTO: ESTABLISH] In ESTABLISH state
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] [PROTO: ESTABLISH] Got EHLO command, switching to MAIL state
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Sent 21 bytes: '250-Hello localhost\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Sent 16 bytes: '250-PIPELINING\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Sent 16 bytes: '250 AUTH PLAIN\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Received 35 bytes: 'MAIL FROM:<www-data@354d0e02365c>\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] [PROTO: MAIL] Processing line: MAIL FROM:<www-data@354d0e02365c>
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] [PROTO: MAIL] In state 6, got command 'MAIL', args 'FROM:<www-data@354d0e02365c>'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] [PROTO: MAIL] In MAIL state
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] [PROTO: MAIL] Got MAIL command, switching to RCPT state
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Sent 37 bytes: '250 Sender www-data@354d0e02365c ok\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Received 34 bytes: 'RCPT TO:<mailhog@flywheel.local>\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] [PROTO: RCPT] Processing line: RCPT TO:<mailhog@flywheel.local>
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] [PROTO: RCPT] In state 7, got command 'RCPT', args 'TO:<mailhog@flywheel.local>'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] [PROTO: RCPT] In RCPT state
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] [PROTO: RCPT] Got RCPT command
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Sent 41 bytes: '250 Recipient mailhog@flywheel.local ok\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Received 6 bytes: 'DATA\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] [PROTO: RCPT] Processing line: DATA
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] [PROTO: RCPT] In state 7, got command 'DATA', args ''
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] [PROTO: RCPT] In RCPT state
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] [PROTO: RCPT] Got DATA command, switching to DATA state
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Sent 37 bytes: '354 End data with <CR><LF>.<CR><LF>\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Received 1024 bytes: 'To: yuri.alexs.dev@gmail.com\r\nSubject: =?UTF-8?Q?[Tenta=C3=A7=C3=A3o_Sexy]_New_customer_order_(90)_-_January_18,?=  =?UTF-8?Q?_2018?=\r\nX-PHP-Originating-Script: 1000:class-phpmailer.php\r\nDate: Thu, 18 Jan 2018 15:20:56 +0000\r\nFrom: =?UTF-8?Q?Tenta=C3=A7=C3=A3o_Sexy?= <yuri.alexs.dev@gmail.com>\r\nReply-To: Yuri Caetano <yuri.alexs@gmail.com>\r\nMessage-ID: <8e79612c1d57f2ccf5cbb31b20b93f3a@tentacaosexy.wp>\r\nX-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)\r\nMIME-Version: 1.0\r\nContent-Type: text/html; charset=UTF-8\r\nContent-Transfer-Encoding: 8bit\r\n\r\n<!DOCTYPE html>\r\n<html lang="en-US">\r\n<head>\r\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">\r\n<title>Tentação Sexy</title>\r\n</head>\r\n<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">\r\n		<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;">\r\n			<table border="0" cellpadding="0" cellspacing="0" height'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Received 1024 bytes: '="100%" width="100%"><tr>\r\n<td align="center" valign="top">\r\n						<div id="template_header_image">\r\n													</div>\r\n						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #ffffff; border: 1px solid #dedede; border-radius: 3px !important;">\r\n<tr>\r\n<td align="center" valign="top">\r\n									<!-- Header -->\r\n									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #96588a; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;'><tr>\r\n<td id="header_wrapper" style="padding: 36px 48px; display: block;">\r\n												<h1 style='color: #ffffff; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; t'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Received 1024 bytes: 'ext-shadow: 0 1px 0 #ab79a1; -webkit-font-smoothing: antialiased;'>New customer order</h1>\r\n											</td>\r\n										</tr></table>\r\n<!-- End Header -->\r\n</td>\r\n							</tr>\r\n<tr>\r\n<td align="center" valign="top">\r\n									<!-- Body -->\r\n									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body"><tr>\r\n<td valign="top" id="body_content" style="background-color: #ffffff;">\r\n												<!-- Content -->\r\n												<table border="0" cellpadding="20" cellspacing="0" width="100%"><tr>\r\n<td valign="top" style="padding: 48px 48px 0;">\r\n															<div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>\r\n\r\n <p style="margin: 0 0 16px;">You have received an order from Yuri Caetano. The order is as\r\nfollows:</p>\r\n\r\n \r\n	<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Received 1024 bytes: '; line-height: 130%; margin: 0 0 18px; text-align: left;'>\r\n<a class="link" href="http://tentacaosexy.wp/wp-admin/post.php?post=90&amp;action=edit" style="color: #96588a; font-weight: normal; text-decoration: underline;">Order\r\n#90</a> (<time datetime="2018-01-18T15:20:56+00:00">January 18,\r\n2018</time>)</h2>\r\n\r\n<div style="margin-bottom: 40px;">\r\n	<table class="td" cellspacing="0" cellpadding="6" style="width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; color: #636363; border: 1px solid #e5e5e5;" border="1">\r\n<thead><tr>\r\n<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Product</th>\r\n				<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Quantity</th>\r\n				<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Price</th>\r\n			</tr></thead>\r\n<tbody>\r\n<tr class="order_item">\r\n<td class="td" style="text-ali'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Received 1024 bytes: 'gn: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;">Another Produto</td>\r\n			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;">1</td>\r\n			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;"><span class="woocommerce-Price-amount\r\namount"><span class="woocommerce-Price-currencySymbol">R$</span>11,00</span></td>\r\n		</tr>\r\n<tr class="order_item">\r\n<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;">Entires Your\r\nSoul</td>\r\n			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;">1</td>\r\n			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;"><span class="woocommerce-Price-amount\r\namount"><span clas'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Received 1024 bytes: 's="woocommerce-Price-currencySymbol">R$</span>11,00</span></td>\r\n		</tr>\r\n</tbody>\r\n<tfoot>\r\n<tr>\r\n<th class="td" scope="row" colspan="2" style="text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Subtotal:</th>\r\n							<td class="td" style="text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">R$</span>22,00</span></td>\r\n						</tr>\r\n<tr>\r\n<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Shipping:</th>\r\n							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">\r\n<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">R$</span>12,00</span> <small class="shipped_via">via Flat rate</small>\r\n</td>\r\n						</tr>\r\n<tr>\r\n<th class="td" scope="row" colspan="2" style="text-alig'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Received 1024 bytes: 'n: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Payment method:</th>\r\n							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Cash on delivery</td>\r\n						</tr>\r\n<tr>\r\n<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Total:</th>\r\n							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">R$</span>34,00</span></td>\r\n						</tr>\r\n</tfoot>\r\n</table>\r\n</div>\r\n\r\n<table id="addresses" cellspacing="0" cellpadding="0" style="width: 100%; vertical-align: top; margin-bottom: 40px; padding: 0;" border="0"><tr>\r\n<td style="text-align: left; border: 0; padding: 0;" valign="top" width="50%">\r\n			<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; lin'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Received 1024 bytes: 'e-height: 130%; margin: 0 0 18px; text-align: left;'>Billing address</h2>\r\n\r\n			<address class="address" style="padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;">\r\n				Yuri Caetano<br>QC 01 Conjunto D Numero 04<br>loja 03<br>santa\r\nmaria<br>Distrito\r\nFederal<br>72535-040									<br>61991829742													<p style="margin: 0 0 16px;">yuri.alexs@gmail.com</p>\r\n							</address>\r\n		</td>\r\n					<td style="text-align: left; padding: 0;" valign="top" width="50%">\r\n				<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Shipping address</h2>\r\n\r\n				<address class="address" style="padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;">Yuri Caetano<br>QC 01 Conjunto D Numero\r\n04<br>loja 03<br>santa maria<br>Distrito\r\nFederal<br>72535040</address>\r\n			</td>\r\n			</tr></table>\r\n</div>\r\n														</td>\r\n													</tr></table>\r\n<!-- End '
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Received 841 bytes: 'Content -->\r\n</td>\r\n										</tr></table>\r\n<!-- End Body -->\r\n</td>\r\n							</tr>\r\n<tr>\r\n<td align="center" valign="top">\r\n									<!-- Footer -->\r\n									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer"><tr>\r\n<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">\r\n												<table border="0" cellpadding="10" cellspacing="0" width="100%"><tr>\r\n<td colspan="2" valign="middle" id="credit" style="padding: 0 48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #c09bb9; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;">\r\n															<p>Tentação Sexy</p>\r\n														</td>\r\n													</tr></table>\r\n</td>\r\n										</tr></table>\r\n<!-- End Footer -->\r\n</td>\r\n							</tr>\r\n</table>\r\n</td>\r\n				</tr></table>\r\n</div>\r\n	</body>\r\n</html>\r\n\r\n.\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] [PROTO: DATA] Got EOF, storing message and switching to MAIL state
+2018/01/18 15:20:56 Parsing Content from string: 'To: yuri.alexs.dev@gmail.com
+Subject: =?UTF-8?Q?[Tenta=C3=A7=C3=A3o_Sexy]_New_customer_order_(90)_-_January_18,?=  =?UTF-8?Q?_2018?=
+X-PHP-Originating-Script: 1000:class-phpmailer.php
+Date: Thu, 18 Jan 2018 15:20:56 +0000
+From: =?UTF-8?Q?Tenta=C3=A7=C3=A3o_Sexy?= <yuri.alexs.dev@gmail.com>
+Reply-To: Yuri Caetano <yuri.alexs@gmail.com>
+Message-ID: <8e79612c1d57f2ccf5cbb31b20b93f3a@tentacaosexy.wp>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Tentação Sexy</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+		<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;">
+			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%"><tr>
+<td align="center" valign="top">
+						<div id="template_header_image">
+													</div>
+						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #ffffff; border: 1px solid #dedede; border-radius: 3px !important;">
+<tr>
+<td align="center" valign="top">
+									<!-- Header -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #96588a; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;'><tr>
+<td id="header_wrapper" style="padding: 36px 48px; display: block;">
+												<h1 style='color: #ffffff; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #ab79a1; -webkit-font-smoothing: antialiased;'>New customer order</h1>
+											</td>
+										</tr></table>
+<!-- End Header -->
+</td>
+							</tr>
+<tr>
+<td align="center" valign="top">
+									<!-- Body -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body"><tr>
+<td valign="top" id="body_content" style="background-color: #ffffff;">
+												<!-- Content -->
+												<table border="0" cellpadding="20" cellspacing="0" width="100%"><tr>
+<td valign="top" style="padding: 48px 48px 0;">
+															<div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+
+ <p style="margin: 0 0 16px;">You have received an order from Yuri Caetano. The order is as
+follows:</p>
+
+ 
+	<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>
+<a class="link" href="http://tentacaosexy.wp/wp-admin/post.php?post=90&amp;action=edit" style="color: #96588a; font-weight: normal; text-decoration: underline;">Order
+#90</a> (<time datetime="2018-01-18T15:20:56+00:00">January 18,
+2018</time>)</h2>
+
+<div style="margin-bottom: 40px;">
+	<table class="td" cellspacing="0" cellpadding="6" style="width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; color: #636363; border: 1px solid #e5e5e5;" border="1">
+<thead><tr>
+<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Product</th>
+				<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Quantity</th>
+				<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Price</th>
+			</tr></thead>
+<tbody>
+<tr class="order_item">
+<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;">Another Produto</td>
+			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;">1</td>
+			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;"><span class="woocommerce-Price-amount
+amount"><span class="woocommerce-Price-currencySymbol">R$</span>11,00</span></td>
+		</tr>
+<tr class="order_item">
+<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;">Entires Your
+Soul</td>
+			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;">1</td>
+			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;"><span class="woocommerce-Price-amount
+amount"><span class="woocommerce-Price-currencySymbol">R$</span>11,00</span></td>
+		</tr>
+</tbody>
+<tfoot>
+<tr>
+<th class="td" scope="row" colspan="2" style="text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Subtotal:</th>
+							<td class="td" style="text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">R$</span>22,00</span></td>
+						</tr>
+<tr>
+<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Shipping:</th>
+							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">
+<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">R$</span>12,00</span> <small class="shipped_via">via Flat rate</small>
+</td>
+						</tr>
+<tr>
+<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Payment method:</th>
+							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Cash on delivery</td>
+						</tr>
+<tr>
+<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Total:</th>
+							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">R$</span>34,00</span></td>
+						</tr>
+</tfoot>
+</table>
+</div>
+
+<table id="addresses" cellspacing="0" cellpadding="0" style="width: 100%; vertical-align: top; margin-bottom: 40px; padding: 0;" border="0"><tr>
+<td style="text-align: left; border: 0; padding: 0;" valign="top" width="50%">
+			<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Billing address</h2>
+
+			<address class="address" style="padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;">
+				Yuri Caetano<br>QC 01 Conjunto D Numero 04<br>loja 03<br>santa
+maria<br>Distrito
+Federal<br>72535-040									<br>61991829742													<p style="margin: 0 0 16px;">yuri.alexs@gmail.com</p>
+							</address>
+		</td>
+					<td style="text-align: left; padding: 0;" valign="top" width="50%">
+				<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Shipping address</h2>
+
+				<address class="address" style="padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;">Yuri Caetano<br>QC 01 Conjunto D Numero
+04<br>loja 03<br>santa maria<br>Distrito
+Federal<br>72535040</address>
+			</td>
+			</tr></table>
+</div>
+														</td>
+													</tr></table>
+<!-- End Content -->
+</td>
+										</tr></table>
+<!-- End Body -->
+</td>
+							</tr>
+<tr>
+<td align="center" valign="top">
+									<!-- Footer -->
+									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer"><tr>
+<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+												<table border="0" cellpadding="10" cellspacing="0" width="100%"><tr>
+<td colspan="2" valign="middle" id="credit" style="padding: 0 48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #c09bb9; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;">
+															<p>Tentação Sexy</p>
+														</td>
+													</tr></table>
+</td>
+										</tr></table>
+<!-- End Footer -->
+</td>
+							</tr>
+</table>
+</td>
+				</tr></table>
+</div>
+	</body>
+</html>
+'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Storing message QlsF-Ni279PdgBuAnEdAZd8LhrsLc1dr9x9fJSA12UU=@mailhog.example
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Sent 80 bytes: '250 Ok: queued as QlsF-Ni279PdgBuAnEdAZd8LhrsLc1dr9x9fJSA12UU=@mailhog.example\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Received 6 bytes: 'QUIT\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] [PROTO: MAIL] Processing line: QUIT
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] [PROTO: MAIL] In state 6, got command 'QUIT', args ''
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] [PROTO: MAIL] Got QUIT verb, staying in MAIL state
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Sent 9 bytes: '221 Bye\r\n'
+2018/01/18 15:20:56 [SMTP 127.0.0.1:54560] Session ended
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Starting session
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] [PROTO: INVALID] Started session, switching to ESTABLISH state
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Sent 35 bytes: '220 mailhog.example ESMTP MailHog\r\n'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Received 16 bytes: 'EHLO localhost\r\n'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] [PROTO: ESTABLISH] Processing line: EHLO localhost
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] [PROTO: ESTABLISH] In state 1, got command 'EHLO', args 'localhost'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] [PROTO: ESTABLISH] In ESTABLISH state
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] [PROTO: ESTABLISH] Got EHLO command, switching to MAIL state
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Sent 21 bytes: '250-Hello localhost\r\n'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Sent 16 bytes: '250-PIPELINING\r\n'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Sent 16 bytes: '250 AUTH PLAIN\r\n'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Received 35 bytes: 'MAIL FROM:<www-data@354d0e02365c>\r\n'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] [PROTO: MAIL] Processing line: MAIL FROM:<www-data@354d0e02365c>
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] [PROTO: MAIL] In state 6, got command 'MAIL', args 'FROM:<www-data@354d0e02365c>'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] [PROTO: MAIL] In MAIL state
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] [PROTO: MAIL] Got MAIL command, switching to RCPT state
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Sent 37 bytes: '250 Sender www-data@354d0e02365c ok\r\n'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Received 34 bytes: 'RCPT TO:<mailhog@flywheel.local>\r\n'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] [PROTO: RCPT] Processing line: RCPT TO:<mailhog@flywheel.local>
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] [PROTO: RCPT] In state 7, got command 'RCPT', args 'TO:<mailhog@flywheel.local>'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] [PROTO: RCPT] In RCPT state
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] [PROTO: RCPT] Got RCPT command
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Sent 41 bytes: '250 Recipient mailhog@flywheel.local ok\r\n'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Received 6 bytes: 'DATA\r\n'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] [PROTO: RCPT] Processing line: DATA
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] [PROTO: RCPT] In state 7, got command 'DATA', args ''
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] [PROTO: RCPT] In RCPT state
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] [PROTO: RCPT] Got DATA command, switching to DATA state
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Sent 37 bytes: '354 End data with <CR><LF>.<CR><LF>\r\n'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Received 1024 bytes: 'To: yuri.alexs@gmail.com\r\nSubject: =?UTF-8?Q?Your_Tenta=C3=A7=C3=A3o_Sexy_order_receipt_from_January_18,_201?=  =?UTF-8?Q?8?=\r\nX-PHP-Originating-Script: 1000:class-phpmailer.php\r\nDate: Thu, 18 Jan 2018 15:20:56 +0000\r\nFrom: =?UTF-8?Q?Tenta=C3=A7=C3=A3o_Sexy?= <yuri.alexs.dev@gmail.com>\r\nMessage-ID: <93922adc8afece185f859a276a62e22b@tentacaosexy.wp>\r\nX-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)\r\nMIME-Version: 1.0\r\nContent-Type: text/html; charset=UTF-8\r\nContent-Transfer-Encoding: 8bit\r\n\r\n<!DOCTYPE html>\r\n<html lang="en-US">\r\n<head>\r\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">\r\n<title>Tentação Sexy</title>\r\n</head>\r\n<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">\r\n		<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;">\r\n			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%"><tr>\r\n<td align="center" valign="t'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Received 1024 bytes: 'op">\r\n						<div id="template_header_image">\r\n													</div>\r\n						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #ffffff; border: 1px solid #dedede; border-radius: 3px !important;">\r\n<tr>\r\n<td align="center" valign="top">\r\n									<!-- Header -->\r\n									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #96588a; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;'><tr>\r\n<td id="header_wrapper" style="padding: 36px 48px; display: block;">\r\n												<h1 style='color: #ffffff; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #ab79a1; -webkit-font-smoothing: an'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Received 1024 bytes: 'tialiased;'>Thank you for your order</h1>\r\n											</td>\r\n										</tr></table>\r\n<!-- End Header -->\r\n</td>\r\n							</tr>\r\n<tr>\r\n<td align="center" valign="top">\r\n									<!-- Body -->\r\n									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body"><tr>\r\n<td valign="top" id="body_content" style="background-color: #ffffff;">\r\n												<!-- Content -->\r\n												<table border="0" cellpadding="20" cellspacing="0" width="100%"><tr>\r\n<td valign="top" style="padding: 48px 48px 0;">\r\n															<div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>\r\n\r\n<p style="margin: 0 0 16px;">Your order has been received and is now being processed. Your order\r\ndetails are shown below for your reference:</p>\r\n\r\n<p style="margin: 0 0 16px;">Pay with cash upon delivery.</p>\r\n\r\n\r\n	<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Received 1024 bytes: ', Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Order #90 (<time datetime="2018-01-18T15:20:56+00:00">January 18,\r\n2018</time>)</h2>\r\n\r\n<div style="margin-bottom: 40px;">\r\n	<table class="td" cellspacing="0" cellpadding="6" style="width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; color: #636363; border: 1px solid #e5e5e5;" border="1">\r\n<thead><tr>\r\n<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Product</th>\r\n				<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Quantity</th>\r\n				<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Price</th>\r\n			</tr></thead>\r\n<tbody>\r\n<tr class="order_item">\r\n<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;">'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Received 1024 bytes: 'Another Produto</td>\r\n			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;">1</td>\r\n			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;"><span class="woocommerce-Price-amount\r\namount"><span class="woocommerce-Price-currencySymbol">R$</span>11,00</span></td>\r\n		</tr>\r\n<tr class="order_item">\r\n<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;">Entires Your\r\nSoul</td>\r\n			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;">1</td>\r\n			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;"><span class="woocommerce-Price-amount\r\namount"><span class="woocommerce-Price-currencySymbol">R$</span>11,00</span></td>\r\n		</tr>\r\n</tbody>\r\n<tfoot>\r\n<tr>\r\n<th class="td"'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Received 1024 bytes: ' scope="row" colspan="2" style="text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Subtotal:</th>\r\n							<td class="td" style="text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">R$</span>22,00</span></td>\r\n						</tr>\r\n<tr>\r\n<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Shipping:</th>\r\n							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">\r\n<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">R$</span>12,00</span> <small class="shipped_via">via Flat rate</small>\r\n</td>\r\n						</tr>\r\n<tr>\r\n<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Payment method:</th>\r\n							<td class="td" s'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Received 1024 bytes: 'tyle="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Cash on delivery</td>\r\n						</tr>\r\n<tr>\r\n<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Total:</th>\r\n							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">R$</span>34,00</span></td>\r\n						</tr>\r\n</tfoot>\r\n</table>\r\n</div>\r\n\r\n<table id="addresses" cellspacing="0" cellpadding="0" style="width: 100%; vertical-align: top; margin-bottom: 40px; padding: 0;" border="0"><tr>\r\n<td style="text-align: left; border: 0; padding: 0;" valign="top" width="50%">\r\n			<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Billing address</h2>\r\n\r\n			<address class="address" style="p'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Received 1024 bytes: 'adding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;">\r\n				Yuri Caetano<br>QC 01 Conjunto D Numero 04<br>loja 03<br>santa\r\nmaria<br>Distrito\r\nFederal<br>72535-040									<br>61991829742													<p style="margin: 0 0 16px;">yuri.alexs@gmail.com</p>\r\n							</address>\r\n		</td>\r\n					<td style="text-align: left; padding: 0;" valign="top" width="50%">\r\n				<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Shipping address</h2>\r\n\r\n				<address class="address" style="padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;">Yuri Caetano<br>QC 01 Conjunto D Numero\r\n04<br>loja 03<br>santa maria<br>Distrito\r\nFederal<br>72535040</address>\r\n			</td>\r\n			</tr></table>\r\n</div>\r\n														</td>\r\n													</tr></table>\r\n<!-- End Content -->\r\n</td>\r\n										</tr></table>\r\n<!-- End Body -->\r\n</td>\r\n							</tr>\r\n<tr>\r\n<td align="center" val'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Received 728 bytes: 'ign="top">\r\n									<!-- Footer -->\r\n									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer"><tr>\r\n<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">\r\n												<table border="0" cellpadding="10" cellspacing="0" width="100%"><tr>\r\n<td colspan="2" valign="middle" id="credit" style="padding: 0 48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #c09bb9; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;">\r\n															<p>Tentação Sexy</p>\r\n														</td>\r\n													</tr></table>\r\n</td>\r\n										</tr></table>\r\n<!-- End Footer -->\r\n</td>\r\n							</tr>\r\n</table>\r\n</td>\r\n				</tr></table>\r\n</div>\r\n	</body>\r\n</html>\r\n\r\n.\r\n'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] [PROTO: DATA] Got EOF, storing message and switching to MAIL state
+2018/01/18 15:20:57 Parsing Content from string: 'To: yuri.alexs@gmail.com
+Subject: =?UTF-8?Q?Your_Tenta=C3=A7=C3=A3o_Sexy_order_receipt_from_January_18,_201?=  =?UTF-8?Q?8?=
+X-PHP-Originating-Script: 1000:class-phpmailer.php
+Date: Thu, 18 Jan 2018 15:20:56 +0000
+From: =?UTF-8?Q?Tenta=C3=A7=C3=A3o_Sexy?= <yuri.alexs.dev@gmail.com>
+Message-ID: <93922adc8afece185f859a276a62e22b@tentacaosexy.wp>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Tentação Sexy</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+		<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;">
+			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%"><tr>
+<td align="center" valign="top">
+						<div id="template_header_image">
+													</div>
+						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #ffffff; border: 1px solid #dedede; border-radius: 3px !important;">
+<tr>
+<td align="center" valign="top">
+									<!-- Header -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #96588a; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;'><tr>
+<td id="header_wrapper" style="padding: 36px 48px; display: block;">
+												<h1 style='color: #ffffff; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #ab79a1; -webkit-font-smoothing: antialiased;'>Thank you for your order</h1>
+											</td>
+										</tr></table>
+<!-- End Header -->
+</td>
+							</tr>
+<tr>
+<td align="center" valign="top">
+									<!-- Body -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body"><tr>
+<td valign="top" id="body_content" style="background-color: #ffffff;">
+												<!-- Content -->
+												<table border="0" cellpadding="20" cellspacing="0" width="100%"><tr>
+<td valign="top" style="padding: 48px 48px 0;">
+															<div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+
+<p style="margin: 0 0 16px;">Your order has been received and is now being processed. Your order
+details are shown below for your reference:</p>
+
+<p style="margin: 0 0 16px;">Pay with cash upon delivery.</p>
+
+
+	<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Order #90 (<time datetime="2018-01-18T15:20:56+00:00">January 18,
+2018</time>)</h2>
+
+<div style="margin-bottom: 40px;">
+	<table class="td" cellspacing="0" cellpadding="6" style="width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; color: #636363; border: 1px solid #e5e5e5;" border="1">
+<thead><tr>
+<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Product</th>
+				<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Quantity</th>
+				<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Price</th>
+			</tr></thead>
+<tbody>
+<tr class="order_item">
+<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;">Another Produto</td>
+			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;">1</td>
+			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;"><span class="woocommerce-Price-amount
+amount"><span class="woocommerce-Price-currencySymbol">R$</span>11,00</span></td>
+		</tr>
+<tr class="order_item">
+<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;">Entires Your
+Soul</td>
+			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;">1</td>
+			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;"><span class="woocommerce-Price-amount
+amount"><span class="woocommerce-Price-currencySymbol">R$</span>11,00</span></td>
+		</tr>
+</tbody>
+<tfoot>
+<tr>
+<th class="td" scope="row" colspan="2" style="text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Subtotal:</th>
+							<td class="td" style="text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">R$</span>22,00</span></td>
+						</tr>
+<tr>
+<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Shipping:</th>
+							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">
+<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">R$</span>12,00</span> <small class="shipped_via">via Flat rate</small>
+</td>
+						</tr>
+<tr>
+<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Payment method:</th>
+							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Cash on delivery</td>
+						</tr>
+<tr>
+<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Total:</th>
+							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">R$</span>34,00</span></td>
+						</tr>
+</tfoot>
+</table>
+</div>
+
+<table id="addresses" cellspacing="0" cellpadding="0" style="width: 100%; vertical-align: top; margin-bottom: 40px; padding: 0;" border="0"><tr>
+<td style="text-align: left; border: 0; padding: 0;" valign="top" width="50%">
+			<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Billing address</h2>
+
+			<address class="address" style="padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;">
+				Yuri Caetano<br>QC 01 Conjunto D Numero 04<br>loja 03<br>santa
+maria<br>Distrito
+Federal<br>72535-040									<br>61991829742													<p style="margin: 0 0 16px;">yuri.alexs@gmail.com</p>
+							</address>
+		</td>
+					<td style="text-align: left; padding: 0;" valign="top" width="50%">
+				<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Shipping address</h2>
+
+				<address class="address" style="padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;">Yuri Caetano<br>QC 01 Conjunto D Numero
+04<br>loja 03<br>santa maria<br>Distrito
+Federal<br>72535040</address>
+			</td>
+			</tr></table>
+</div>
+														</td>
+													</tr></table>
+<!-- End Content -->
+</td>
+										</tr></table>
+<!-- End Body -->
+</td>
+							</tr>
+<tr>
+<td align="center" valign="top">
+									<!-- Footer -->
+									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer"><tr>
+<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+												<table border="0" cellpadding="10" cellspacing="0" width="100%"><tr>
+<td colspan="2" valign="middle" id="credit" style="padding: 0 48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #c09bb9; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;">
+															<p>Tentação Sexy</p>
+														</td>
+													</tr></table>
+</td>
+										</tr></table>
+<!-- End Footer -->
+</td>
+							</tr>
+</table>
+</td>
+				</tr></table>
+</div>
+	</body>
+</html>
+'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Storing message wdDk9S6c8HzEFPghZUoc95jM7MCW8F7UWFKEaXBbhGg=@mailhog.example
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Sent 80 bytes: '250 Ok: queued as wdDk9S6c8HzEFPghZUoc95jM7MCW8F7UWFKEaXBbhGg=@mailhog.example\r\n'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Received 6 bytes: 'QUIT\r\n'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] [PROTO: MAIL] Processing line: QUIT
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] [PROTO: MAIL] In state 6, got command 'QUIT', args ''
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] [PROTO: MAIL] Got QUIT verb, staying in MAIL state
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Sent 9 bytes: '221 Bye\r\n'
+2018/01/18 15:20:57 [SMTP 127.0.0.1:54562] Session ended

@@ -26,9 +26,10 @@ INSERT INTO `wp_termmeta` VALUES
 (22,25,"order","0"),
 (23,25,"display_type",""),
 (24,25,"thumbnail_id","0"),
-(25,18,"product_count_product_cat","4"),
+(25,18,"product_count_product_cat","5"),
 (26,25,"product_count_product_cat","4"),
 (27,26,"product_count_product_tag","4"),
 (28,27,"product_count_product_tag","4"),
 (29,28,"product_count_product_tag","4"),
-(30,21,"product_count_product_cat","1");
+(30,21,"product_count_product_cat","1"),
+(31,24,"product_count_product_cat","1");

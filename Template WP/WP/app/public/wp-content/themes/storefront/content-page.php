@@ -16,6 +16,5 @@
 	 * @hooked storefront_page_content         - 20
 	 */
 	do_action( 'storefront_page' );
-      
 	?>
 </div><!-- #post-## -->
