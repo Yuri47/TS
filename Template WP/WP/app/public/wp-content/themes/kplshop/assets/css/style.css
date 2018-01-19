@@ -45,12 +45,12 @@ body {
     height: 110px;
 }
 .pesquisa{
-    border: 2px solid #ff009d;
-    border-radius: 6px;
+    border: 1px solid #ff009d;
+    border-radius: 5px;
 }
 .botao-pesquisa{
     border-radius: 0px;
-    height: 45px;
+    height: 48px;
     width: 45px;
 }
 .divisao {
@@ -211,7 +211,7 @@ padding: .5rem 1rem;
     max-height: 100% !important;
 }
 
-.page-title {
+.page-title, .entry-title {
     text-align: center !important;
 }
 .products > li > a  {
@@ -293,21 +293,43 @@ padding: .5rem 1rem;
     color: #ffffff;
 }
 
-input[type="submit"] {
+input[type="submit"], button.alt  {
     background-color: #ff009d !important;
     border-radius: 3px;
     font-weight: 100;
     letter-spacing: 2px;
 }
 
+.input-text, input[type=email], input[type=password], input[type=search], input[type=text], input[type=url], textarea {
+    background-color: #ffddee ;
+    border: 1px solid #ff009d;
+    border-radius: 5px;
+}
 
+.input-text:focus, input[type=email]:focus, input[type=password]:focus, input[type=search]:focus, input[type=text]:focus, input[type=url]:focus, textarea:focus {
+    background-color: #ffd0ee ;
+     
+}
 
+a:hover {
+   text-decoration: none; 
+}
 
+.button:hover, button.alt:hover {
+    background-color: #d60284 !important;
+    color: white !important;
+    transition: 0.2;
+}
 
-
-
-
-
+a.added_to_cart {
+    color: white !important;
+}
+.woocommerce-message {
+    background-color: #ff009d;
+}
+.whats img {
+    
+}
 
 
 

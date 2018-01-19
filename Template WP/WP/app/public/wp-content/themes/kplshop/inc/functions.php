@@ -146,6 +146,10 @@ function menu_branco() {
         </div>
       </div> <!-- md-7 -->
     <div class="col-md-2  ">
+       <span>
+         
+          
+         </span>
       </div>
     <div class="col-md-3 carrinho">
       <div class="   ">

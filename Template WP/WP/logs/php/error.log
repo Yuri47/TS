@@ -360,3 +360,11 @@ Stack trace:
 [18-Jan-2018 20:56:50 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
 [18-Jan-2018 20:56:52 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
 [18-Jan-2018 20:56:52 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[19-Jan-2018 11:28:56 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[19-Jan-2018 11:28:56 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[19-Jan-2018 11:28:56 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[19-Jan-2018 11:28:56 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[19-Jan-2018 17:20:17 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[19-Jan-2018 17:20:18 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[19-Jan-2018 17:20:18 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[19-Jan-2018 17:20:19 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75

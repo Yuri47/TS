@@ -66,7 +66,9 @@
     <!--FIM PRODUTO -->  <!--PRODUTO -->
     <div class="col-md-4 py-4 mx-auto">
     <H5>PAGAMENTO E ENTREGA</H5>
+    <a href="/pagamento-e-entrega">
      <img src="<?php echo get_stylesheet_directory_uri()?>/assets/images/mercadopago-logo.png" class="img-fluid" alt="Formas de pagamento">
+     </a>
     </div>
     <!--FIM PRODUTO -->
     
