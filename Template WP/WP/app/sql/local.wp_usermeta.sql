@@ -24,7 +24,7 @@ INSERT INTO `wp_usermeta` VALUES
 (22,1,"metaboxhidden_nav-menus","a:4:{i:0;s:21:\"add-post-type-product\";i:1;s:12:\"add-post_tag\";i:2;s:15:\"add-product_cat\";i:3;s:15:\"add-product_tag\";}"),
 (23,1,"wp_user-settings","libraryContent=browse"),
 (24,1,"wp_user-settings-time","1515541365"),
-(25,1,"nav_menu_recently_edited","16"),
+(25,1,"nav_menu_recently_edited","17"),
 (27,1,"last_update","1516288691"),
 (28,1,"billing_first_name","Yuri"),
 (29,1,"billing_last_name","Caetano"),
@@ -80,4 +80,4 @@ INSERT INTO `wp_usermeta` VALUES
 (83,2,"shipping_method","a:1:{i:0;s:11:\"flat_rate:1\";}"),
 (85,2,"_woocommerce_persistent_cart_1","a:1:{s:4:\"cart\";a:0:{}}"),
 (90,1,"_woocommerce_persistent_cart_1","a:1:{s:4:\"cart\";a:2:{s:32:\"7f39f8317fbdb1988ef4c628eba02591\";a:10:{s:3:\"key\";s:32:\"7f39f8317fbdb1988ef4c628eba02591\";s:10:\"product_id\";i:61;s:12:\"variation_id\";i:0;s:9:\"variation\";a:0:{}s:8:\"quantity\";i:1;s:13:\"line_tax_data\";a:2:{s:8:\"subtotal\";a:0:{}s:5:\"total\";a:0:{}}s:13:\"line_subtotal\";d:11;s:17:\"line_subtotal_tax\";i:0;s:10:\"line_total\";d:11;s:8:\"line_tax\";i:0;}s:32:\"14bfa6bb14875e45bba028a21ed38046\";a:10:{s:3:\"key\";s:32:\"14bfa6bb14875e45bba028a21ed38046\";s:10:\"product_id\";i:69;s:12:\"variation_id\";i:0;s:9:\"variation\";a:0:{}s:8:\"quantity\";i:1;s:13:\"line_tax_data\";a:2:{s:8:\"subtotal\";a:0:{}s:5:\"total\";a:0:{}}s:13:\"line_subtotal\";d:11;s:17:\"line_subtotal_tax\";i:0;s:10:\"line_total\";d:11;s:8:\"line_tax\";i:0;}}}"),
-(91,1,"session_tokens","a:1:{s:64:\"b8712cc87c55baa5a1b0a69fb0888220b700a0d1a0430a9b5242e84c170557e6\";a:4:{s:10:\"expiration\";i:1516469551;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:115:\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36\";s:5:\"login\";i:1516296751;}}");
+(91,1,"session_tokens","a:1:{s:64:\"c61082eb409c75fdd0df47738f265a038172505f973b02100c02ee491073e4ed\";a:4:{s:10:\"expiration\";i:1516813456;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:115:\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36\";s:5:\"login\";i:1516640656;}}");

@@ -16,7 +16,7 @@ INSERT INTO `wp_term_taxonomy` VALUES
 (12,12,"product_visibility","",0,0),
 (13,13,"product_visibility","",0,0),
 (14,14,"product_visibility","",0,1),
-(15,15,"nav_menu","",0,7),
+(15,15,"nav_menu","",0,9),
 (16,16,"nav_menu","",0,6),
 (17,17,"nav_menu","",0,8),
 (18,18,"product_cat","",0,5),

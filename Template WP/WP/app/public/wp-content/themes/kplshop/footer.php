@@ -88,10 +88,9 @@
              <?php bloginfo( 'name' ); ?> - <?php echo date( 'Y' ); ?>
                  </div>
        </div>
-	
-	
 	 
 	</footer><!-- #footer -->
+  
    
 
 	<?php do_action( 'storefront_after_footer' ); ?>

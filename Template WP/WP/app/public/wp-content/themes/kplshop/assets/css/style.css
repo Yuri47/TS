@@ -129,8 +129,14 @@ footer li {
 @media (max-width: 576px){
  
 .carrinho {
-    display: none;
+    display: block;
 }
+    .cart-contents {
+        display: block !important;
+    }
+    .minhas-compras {
+        display: none;
+    }
 
 }
 
@@ -329,6 +335,9 @@ a.added_to_cart {
 }
 .whats img {
     
+}
+.entry-content img {
+    width: 200px;
 }
 
 

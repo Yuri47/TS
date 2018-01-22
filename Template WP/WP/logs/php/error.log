@@ -368,3 +368,16 @@ Stack trace:
 [19-Jan-2018 17:20:18 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
 [19-Jan-2018 17:20:18 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
 [19-Jan-2018 17:20:19 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[22-Jan-2018 18:55:21 UTC] PHP Recoverable fatal error:  Object of class WP_Post could not be converted to string in /app/public/wp-content/themes/kplshop/header.php on line 23
+[22-Jan-2018 19:00:27 UTC] PHP Parse error:  syntax error, unexpected '$dados' (T_VARIABLE) in /app/public/wp-content/themes/kplshop/inc/functions.php on line 231
+[22-Jan-2018 19:30:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function dadfos() in /app/public/wp-content/themes/kplshop/footer.php:92
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /app/public/wp-content/themes/kplshop/woocommerce.php(30): get_footer()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/kplshop/footer.php on line 92

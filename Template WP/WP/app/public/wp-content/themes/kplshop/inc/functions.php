@@ -25,8 +25,7 @@ add_action('yd-header', 'menu_preto', 1);
 add_action('yd-header', 'menu_branco', 3);
 add_action('yd-header', 'menu_categoria', 5);
 add_action('storefront_before_site', 'modal_login', 1);
-
-
+ 
 
 
 
@@ -107,6 +106,8 @@ function menu_branco() {
       
     </div>
     <div class="col-8">
+       
+     
        <div class="input-group py-3">
         <p>
        
@@ -147,20 +148,22 @@ function menu_branco() {
       </div> <!-- md-7 -->
     <div class="col-md-2  ">
        <span>
-         
+        
           
          </span>
       </div>
     <div class="col-md-3 carrinho">
       <div class="   ">
       <div class="  text-right py-3">
-      <a href="<?php echo wc_get_cart_url()?>"><p class="cor-pink">MINHAS COMPRAS</p></a>
+      <a href="<?php echo wc_get_cart_url()?>"><p class="cor-pink minhas-compras">MINHAS COMPRAS</p></a>
       <span><div id="site-header-cart" class="site-header-cart menu">
 			<div class="<?php echo esc_attr( $class ); ?>">
 				<?php storefront_cart_link(); ?>
 			</div>
 			<div>
 				<?php the_widget( 'WC_Widget_Cart', 'title=' ); ?>
+				
+
 			</div>
 		</div></span>
       </div>
@@ -170,7 +173,7 @@ function menu_branco() {
   </div> <!-- row -->
   
 </div>
- 
+  
 
  <?php
 
@@ -224,6 +227,7 @@ function menu_categoria () {
  
 
 function modal_login() {
+     
     ?>
     <!-- Modal -->
 <div class="modal fade " id="modalLogin" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
