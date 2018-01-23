@@ -137,6 +137,10 @@ footer li {
     .minhas-compras {
         display: none;
     }
+    .entry-content img {
+    width: 80%;
+}
+
 
 }
 
@@ -337,7 +341,7 @@ a.added_to_cart {
     
 }
 .entry-content img {
-    width: 200px;
+    width: 300px;
 }
 
 

@@ -148,14 +148,14 @@ function menu_branco() {
       </div> <!-- md-7 -->
     <div class="col-md-2  ">
        <span>
-        
+        <img src="<?php echo get_stylesheet_directory_uri() ?>/assets/images/whats-rosa.png" alt="">
           
          </span>
       </div>
     <div class="col-md-3 carrinho">
       <div class="   ">
       <div class="  text-right py-3">
-      <a href="<?php echo wc_get_cart_url()?>"><p class="cor-pink minhas-compras">MINHAS COMPRAS</p></a>
+      <a href="<?php echo wc_get_cart_url()?>"><p class="cor-pink minhas-compras">CARRINHO DE COMPRAS</p></a>
       <span><div id="site-header-cart" class="site-header-cart menu">
 			<div class="<?php echo esc_attr( $class ); ?>">
 				<?php storefront_cart_link(); ?>
